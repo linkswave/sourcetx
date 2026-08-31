@@ -1,0 +1,146 @@
+[
+  {
+    "id": "greeting",
+    "keywords": { "hello": 3, "hi": 3, "hey": 3, "good morning": 4, "good afternoon": 4, "help": 2 },
+    "answer": "Hi! I'm the SourceTX virtual assistant. Ask me about our services, open jobs, how to apply, or how to get in touch.",
+    "followups": ["What services do you offer?", "Are there open jobs?", "How do I apply?", "How can I contact SourceTX?"]
+  },
+  {
+    "id": "company-overview",
+    "keywords": { "sourcetx": 3, "company": 2, "about": 1, "who are you": 3, "who is sourcetx": 4, "what do you do": 3, "about sourcetx": 5, "your company": 3 },
+    "answer": "SourceTX is a technology staffing, consulting, engineering, and managed services company. We help organizations navigate change by delivering talent and technology solutions across data, cloud, application engineering, cybersecurity, and managed services. We have offices in Fort Lee NJ, Pittsburgh PA, Tampa FL, and London UK.",
+    "followups": ["What services do you offer?", "Where are your offices?", "How do you hire talent?"]
+  },
+  {
+    "id": "services-overview",
+    "keywords": { "services": 3, "service": 2, "offer": 1, "solutions": 2, "what can you do": 4, "capabilities": 3, "what do you provide": 4, "product and services": 4 },
+    "answer": "SourceTX offers six solution families: Talent & Workforce, Cloud & Infrastructure, Data/AI & Analytics, Application Engineering, Cybersecurity & Quality, and Managed Services. Which one would you like to know more about?",
+    "followups": ["Tell me about data and AI", "Tell me about cloud and infrastructure", "Tell me about cybersecurity", "Tell me about managed services"]
+  },
+  {
+    "id": "talent-workforce",
+    "keywords": { "talent": 3, "workforce": 3, "staffing": 4, "recruiting": 4, "recruit": 3, "headhunt": 3, "candidates": 2, "contract staffing": 5, "temp staff": 4 },
+    "answer": "Our Talent & Workforce practice helps organizations staff project-based and full-time roles with skilled technology professionals — from single hard-to-fill positions to entire project teams. We source, vet, and support candidates through the full engagement lifecycle.",
+    "followups": ["Are there open jobs?", "How do I submit my résumé?", "How does the hiring process work?"]
+  },
+  {
+    "id": "cloud-infrastructure",
+    "keywords": { "cloud": 3, "infrastructure": 3, "devops": 4, "kubernetes": 4, "aws": 2, "azure": 2, "gcp": 2, "terraform": 3, "cloud migration": 5, "site reliability": 5, "platform engineering": 5 },
+    "answer": "Our Cloud & Infrastructure practice designs, builds, and operates cloud foundations, automation, and developer platforms. We cover cloud migration, DevOps, Kubernetes, infrastructure-as-code, and reliability engineering across AWS, Azure, and GCP.",
+    "followups": ["Do you have cloud engineering jobs?", "Tell me about managed services"]
+  },
+  {
+    "id": "data-ai",
+    "keywords": { "data": 2, "ai": 3, "analytics": 3, "machine learning": 4, "artificial intelligence": 4, "data engineering": 4, "data science": 3, "big data": 4, "business intelligence": 4, "data platform": 4 },
+    "answer": "Our Data, AI & Analytics practice helps organizations build data platforms, analytics, and AI solutions — including data engineering, warehousing, machine learning, and LLM-powered applications. We deliver both the talent and the engineering.",
+    "followups": ["Do you have data engineering jobs?", "Do you have AI jobs?"]
+  },
+  {
+    "id": "application-engineering",
+    "keywords": { "application": 3, "applications": 3, "software development": 4, "web development": 4, "full stack": 4, "full-stack": 4, "custom software": 5, "mobile app": 4, "api development": 4, "software engineer": 3 },
+    "answer": "Our Application Engineering practice designs and builds custom software — web and mobile applications, APIs, integrations, and modernizations. We pair senior engineers with your team to ship secure, well-tested products.",
+    "followups": ["Do you have software developer jobs?"]
+  },
+  {
+    "id": "cybersecurity-quality",
+    "keywords": { "cybersecurity": 4, "cyber": 3, "security": 3, "penetration testing": 5, "compliance": 3, "audit": 3, "quality assurance": 4, "qa testing": 4, "vulnerability management": 5, "data protection": 3 },
+    "answer": "Our Cybersecurity & Quality practice helps organizations protect systems and data — security operations, compliance and audits, vulnerability management, plus quality assurance and testing. We help you reduce risk and build confidence in what you ship.",
+    "followups": ["Do you have security jobs?"]
+  },
+  {
+    "id": "managed-services",
+    "keywords": { "managed services": 5, "managed service": 5, "msp": 3, "outsourcing": 4, "outsource": 3, "service desk": 4, "monitoring": 2, "sla": 3, "24/7 support": 4 },
+    "answer": "Our Managed Services practice provides ongoing technology operations — monitoring, service desk, infrastructure management, and proactive maintenance — with defined SLAs so you can focus on your business.",
+    "followups": ["How do I get a quote?"]
+  },
+  {
+    "id": "jobs-overview",
+    "keywords": { "jobs": 4, "job": 3, "positions": 3, "position": 2, "opening": 3, "openings": 3, "careers": 4, "career": 3, "vacancies": 4, "vacancy": 4, "hiring": 3, "open roles": 4, "work here": 4 },
+    "answer": "We have a range of open technology positions across data, cloud, cybersecurity, software engineering, and more. Visit the jobs page to browse current openings, or submit your résumé to join our talent network. You can apply directly to any role from its page.",
+    "followups": ["How do I apply?", "Do you have data jobs?", "Do you have cloud jobs?"]
+  },
+  {
+    "id": "jobs-data",
+    "keywords": { "data engineer": 4, "data engineering job": 5, "big data job": 5, "data scientist job": 5, "machine learning job": 5, "ai engineer": 4, "data analyst job": 4, "ml engineer": 4, "machine learning engineer": 5, "data scientist": 4, "ai engineer job": 5 },
+    "answer": "We currently have open roles in data engineering, big data, and AI engineering. Head to the jobs page and use the search box to filter by title or skill — every listing has full details and an Apply button.",
+    "followups": ["How do I apply?"]
+  },
+  {
+    "id": "jobs-software",
+    "keywords": { "developer job": 4, "software engineer job": 5, "full stack job": 5, "full-stack job": 5, "frontend job": 4, "backend job": 4, "programmer": 2, "coding": 2, "development job": 4 },
+    "answer": "We have open software engineering roles including full-stack, frontend, and backend positions. Browse the jobs page and filter by skill — each listing shows responsibilities, requirements, and an Apply button.",
+    "followups": ["How do I apply?"]
+  },
+  {
+    "id": "jobs-cloud",
+    "keywords": { "cloud engineer job": 5, "cloud job": 5, "cloud engineering job": 5, "devops job": 5, "infrastructure job": 4, "platform engineer": 3, "sre job": 5, "kubernetes job": 5 },
+    "answer": "We have open cloud and platform engineering roles across AWS, Azure, and GCP. Browse the jobs page and filter by skill or location — every listing has full details and an Apply button.",
+    "followups": ["How do I apply?"]
+  },
+  {
+    "id": "jobs-cyber",
+    "keywords": { "security job": 5, "cyber job": 5, "cybersecurity job": 5, "analyst job": 3, "soc job": 5, "incident response job": 5 },
+    "answer": "We have open cybersecurity roles including security operations, threat analysis, and compliance positions. Browse the jobs page and filter by skill — every listing has full details and an Apply button.",
+    "followups": ["How do I apply?"]
+  },
+  {
+    "id": "apply",
+    "keywords": { "apply": 4, "application": 2, "submit resume": 4, "submit résumé": 4, "how do i apply": 6, "apply process": 5, "how to apply": 6, "apply for a job": 6, "application process": 5 },
+    "answer": "You can apply in two ways: browse the jobs page and click Apply on any role, or submit your résumé once through the talent network on the general application page. Applications are reviewed by our recruiting team, and we will reach out when your background aligns with an opportunity.",
+    "followups": ["Are there open jobs?", "What happens after I apply?"]
+  },
+  {
+    "id": "talent-network",
+    "keywords": { "talent network": 5, "general application": 5, "join your talent network": 6, "send resume": 4, "send résumé": 4, "upload resume": 5, "upload résumé": 5, "be considered for jobs": 5, "add me to your list": 4 },
+    "answer": "Submit your résumé once through our talent network on the general application page. Your profile stays on file, and a recruiter reaches out when a matching opportunity becomes available — you don't need to reapply to every role.",
+    "followups": ["Are there open jobs?"]
+  },
+  {
+    "id": "employers",
+    "keywords": { "hire": 3, "hiring": 2, "employer": 3, "employers": 3, "find talent": 5, "need talent": 5, "staffing services": 4, "engage sourcetx": 5, "recruitment services": 4, "hire developers": 5, "hire engineers": 5 },
+    "answer": "If you're looking to hire, SourceTX provides contract, contract-to-hire, and direct-hire technology talent. Tell us about your needs on the employers page, and a specialist will respond with a tailored plan.",
+    "followups": ["What types of roles do you fill?", "How do I get a quote?"]
+  },
+  {
+    "id": "quote",
+    "keywords": { "quote": 4, "pricing": 4, "price": 3, "prices": 3, "cost": 3, "how much": 4, "rates": 3, "rate": 2, "proposal": 3, "estimate": 3 },
+    "answer": "Pricing depends on the service, scope, and duration. Contact us with your needs and we'll prepare a tailored proposal — use the contact page or email info@sourcetx.com.",
+    "followups": ["How do I contact SourceTX?"]
+  },
+  {
+    "id": "contact",
+    "keywords": { "contact": 4, "email": 2, "call": 2, "phone": 3, "phone number": 5, "email address": 5, "get in touch": 5, "reach you": 4, "reach out": 2 },
+    "answer": "You can reach SourceTX at info@sourcetx.com or +1 (201) 500-7797. Prefer a form? Use the contact page. Our offices are in Fort Lee NJ, Pittsburgh PA, Tampa FL, and London UK.",
+    "followups": ["Where are your offices?", "How do I talk to a person?"]
+  },
+  {
+    "id": "offices",
+    "keywords": { "offices": 4, "office": 3, "location": 2, "locations": 2, "where are you": 3, "address": 3, "fort lee": 4, "pittsburgh": 4, "tampa": 4, "london": 4, "headquarters": 4, "based": 2 },
+    "answer": "SourceTX has offices in Fort Lee NJ, Pittsburgh PA, Tampa FL, and London UK. Many roles are hybrid or remote, and our consultants support clients across the United States and internationally.",
+    "followups": ["How do I contact SourceTX?"]
+  },
+  {
+    "id": "process",
+    "keywords": { "process": 3, "how it works": 5, "how does it work": 5, "workflow": 3, "interview": 3, "interview process": 5, "onboarding": 3, "timeline": 3, "how long": 3, "next steps": 4 },
+    "answer": "The typical flow: we learn your needs (as a client) or your background (as a candidate), match you to opportunities, coordinate interviews, and support onboarding and delivery. Timelines vary by role — a recruiter can give you specifics if you reach out.",
+    "followups": ["How do I apply?", "How do I talk to a person?"]
+  },
+  {
+    "id": "privacy",
+    "keywords": { "privacy": 4, "private": 2, "personal data": 4, "personal information": 4, "data protection": 4, "gdpr": 3, "my information": 3, "handle my data": 6, "secure my data": 5 },
+    "answer": "We handle your information carefully and only use it to evaluate opportunities and respond to you. For the full details, see our Privacy Policy. Your résumé is shared with clients only after discussion with you.",
+    "followups": ["How do I contact SourceTX?"]
+  },
+  {
+    "id": "talk-to-person",
+    "keywords": { "person": 2, "human": 3, "representative": 3, "someone": 2, "real person": 5, "talk to a person": 6, "live person": 5, "customer service": 4, "call me": 3, "speak to someone": 5 },
+    "answer": "Happy to connect you! Email info@sourcetx.com or call +1 (201) 500-7797, or use the contact form — a SourceTX specialist will get back to you.",
+    "followups": ["Where are your offices?"]
+  },
+  {
+    "id": "thanks",
+    "keywords": { "thank": 4, "thanks": 4, "appreciate": 2, "great": 1, "awesome": 1 },
+    "answer": "You're welcome! Is there anything else I can help you with — services, jobs, or getting in touch?",
+    "followups": ["What services do you offer?", "Are there open jobs?"]
+  }
+]

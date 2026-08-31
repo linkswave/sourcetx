@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Employers | SourceTX — Technology Staffing &amp; Talent Solutions</title>
+  <meta name="description" content="SourceTX helps employers build technology capability through contract staffing, direct hire, RPO, consulting, and managed services.">
+  <meta property="og:title" content="Employers | SourceTX — Technology Staffing &amp; Talent Solutions">
+  <meta property="og:description" content="SourceTX helps employers build technology capability through contract staffing, direct hire, RPO, consulting, and managed services.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="pictures/hero-technology-professional.jpg">
+  <link rel="icon" href="pictures/favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css?v=6">
+  <script defer src="js/app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a href="index.html" class="brand" aria-label="SourceTX home">
+        <span class="logo">
+          <svg class="logo-mark" viewBox="0 0 36 36" aria-hidden="true"><rect width="36" height="36" rx="10" fill="url(#lgmh)"/><circle cx="12" cy="23" r="3.2" fill="#fff"/><circle cx="25" cy="18" r="3.2" fill="#fff"/><circle cx="15" cy="10" r="3.2" fill="#fff"/><path d="M14.6 21.4 22.2 19.1M22.3 16.3 17.1 12.1M15.4 12.9 13.1 20.4" stroke="#fff" stroke-width="1.7" stroke-linecap="round" opacity=".85"/><defs><linearGradient id="lgmh" x1="0" y1="0" x2="36" y2="36" gradientUnits="userSpaceOnUse"><stop stop-color="#14C8B5"/><stop offset="1" stop-color="#7B5CFF"/></linearGradient></defs></svg>
+          <span class="wordmark">Source<span class="tx">TX</span></span>
+        </span>
+      </a>
+      <button class="menu" aria-expanded="false" aria-controls="main-nav" aria-label="Toggle navigation"><span class="menu-bar"></span><span class="menu-bar"></span><span class="menu-bar"></span></button>
+      <nav id="main-nav">
+        <a class="" href="index.html">Home</a><a class="" href="about.html">About</a><a class="" href="services.html">Services</a><a class="" href="job-seekers.html">Job Seekers</a><a class="" href="jobs.html">Jobs</a><a class="" href="contact.html">Contact</a>
+        <a class="btn btn-small btn-gradient" href="employers.html">Find Talent</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main">
+    <section class="page-hero" style="--hero:url('pictures/hero-team.webp')">
+      <span class="hero-glow" aria-hidden="true"></span>
+      <span class="hero-glow glow-violet" aria-hidden="true"></span>
+      <div class="container page-hero-content">
+        <span class="eyebrow">For employers</span>
+        <h1>Build capability with the right people.</h1>
+        <p>Tell us what you are trying to accomplish, and we will help shape a practical staffing or consulting solution.</p>
+      </div>
+    </section>
+    <section class="section">
+      <div class="container service-split">
+        <div class="reveal">
+          <span class="eyebrow dark">How we can help</span>
+          <h2>Choose talent, delivery support, or ongoing operations.</h2>
+          <p class="lead">Not every business need should be handled as a standard job requisition.</p>
+          <div class="capability-pills">
+            <span>Specialist staffing</span><span>Permanent search</span><span>RPO</span><span>Cloud transformation</span><span>Data &amp; AI</span><span>Application engineering</span><span>Cybersecurity</span><span>Managed services</span>
+          </div>
+          <a class="text-link" href="services.html">Explore the complete service portfolio →</a>
+        </div>
+        <img class="animated-visual reveal" src="pictures/animated-services-ecosystem.svg" alt="Animated technology services portfolio">
+      </div>
+    </section>
+
+    <section class="section section-soft">
+      <div class="container form-layout">
+        <div>
+          <span class="eyebrow dark">Request talent</span>
+          <h2>Start with the business need.</h2>
+          <p class="lead">Share the role, skills, timeline, work location, and delivery challenge. A SourceTX specialist will follow up to discuss next steps.</p>
+          <ul class="checklist">
+            <li>Contract and contract-to-hire professionals</li>
+            <li>Permanent search</li>
+            <li>RPO and recruiting support</li>
+            <li>Technology consulting teams</li>
+          </ul>
+          <p><strong>Prefer to speak directly?</strong><br><a href="tel:+12015007797">+1 (201) 500-7797</a><br><a href="mailto:info@sourcetx.com">info@sourcetx.com</a></p>
+        </div>
+        <form class="panel" data-ajax action="/api/talent-request" method="post">
+          <label>Your name*<input name="name" autocomplete="name" required></label>
+          <label>Company*<input name="company" autocomplete="organization" required></label>
+          <div class="two">
+            <label>Work email*<input type="email" name="email" autocomplete="email" required></label>
+            <label>Phone<input name="phone" autocomplete="tel"></label>
+          </div>
+          <div class="two">
+            <label>Service needed
+              <select name="service">
+                <option>Technology staffing</option>
+                <option>Direct hire</option>
+                <option>RPO</option>
+                <option>Cloud &amp; infrastructure</option>
+                <option>Data, AI &amp; analytics</option>
+                <option>Application engineering</option>
+                <option>Cybersecurity &amp; quality</option>
+                <option>Managed services</option>
+                <option>Technology consulting</option>
+                <option>Not sure yet</option>
+              </select>
+            </label>
+            <label>Target start date<input type="date" name="targetDate"></label>
+          </div>
+          <label>Hiring or project needs*<textarea name="needs" rows="6" required placeholder="Roles, skills, location, work arrangement, timeline, and any other context."></textarea></label>
+          <label style="font-weight:600"><input type="checkbox" name="consent" value="yes" required style="width:auto"> I agree to be contacted by SourceTX about this request.*</label>
+          <button class="btn btn-gradient" type="submit">Request Talent</button>
+          <p class="form-status" role="status" aria-live="polite"></p>
+        </form>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container cta reveal">
+        <div>
+          <span class="eyebrow">Not sure where to start?</span>
+          <h2>Tell us about the outcome you need.</h2>
+          <p>We'll recommend the right people, team shape, and delivery model.</p>
+        </div>
+        <a class="btn btn-white" href="contact.html">Talk to Our Team</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <a href="index.html" class="logo" aria-label="SourceTX home">
+            <svg class="logo-mark" viewBox="0 0 36 36" aria-hidden="true"><rect width="36" height="36" rx="10" fill="url(#lgmf)"/><circle cx="12" cy="23" r="3.2" fill="#fff"/><circle cx="25" cy="18" r="3.2" fill="#fff"/><circle cx="15" cy="10" r="3.2" fill="#fff"/><path d="M14.6 21.4 22.2 19.1M22.3 16.3 17.1 12.1M15.4 12.9 13.1 20.4" stroke="#fff" stroke-width="1.7" stroke-linecap="round" opacity=".85"/><defs><linearGradient id="lgmf" x1="0" y1="0" x2="36" y2="36" gradientUnits="userSpaceOnUse"><stop stop-color="#14C8B5"/><stop offset="1" stop-color="#7B5CFF"/></linearGradient></defs></svg>
+            <span class="wordmark">Source<span class="tx">TX</span></span>
+          </a>
+          <p>Technology staffing, digital consulting, engineering, and managed services for organizations navigating change.</p>
+          <div class="footer-contact">
+            <a href="mailto:info@sourcetx.com">info@sourcetx.com</a>
+            <a href="tel:+12015007797">+1 (201) 500-7797</a>
+            <a href="https://www.linkedin.com/company/sourcetx-inc-" target="_blank" rel="noopener">LinkedIn</a>
+          </div>
+        </div>
+        <div class="footer-col">
+          <strong>Company</strong>
+          <a href="about.html">About</a>
+          <a href="services.html">Services</a>
+          <a href="employers.html">Employers</a>
+          <a href="job-seekers.html">Job Seekers</a>
+        </div>
+        <div class="footer-col">
+          <strong>Solutions</strong>
+          <a href="talent-workforce.html">Talent &amp; Workforce</a>
+          <a href="cloud-infrastructure.html">Cloud &amp; Infrastructure</a>
+          <a href="data-ai-analytics.html">Data, AI &amp; Analytics</a>
+          <a href="application-engineering.html">Application Engineering</a>
+          <a href="cybersecurity-quality.html">Cybersecurity &amp; Quality</a>
+          <a href="managed-services.html">Managed Services</a>
+        </div>
+        <div class="footer-col">
+          <strong>Offices</strong>
+          <span>Fort Lee, NJ</span>
+          <span>Pittsburgh, PA</span>
+          <span>Tampa, FL</span>
+          <span>London, UK</span>
+        </div>
+      </div>
+      <div class="copyright">
+        <span>© <span data-year></span> SourceTX. All rights reserved.</span>
+        <span><a href="privacy.html">Privacy</a> · <a href="terms.html">Terms</a></span>
+      </div>
+    </div>
+  </footer>
+<script defer src="js/chat-widget.js?v=5"></script>
+</body>
+</html>

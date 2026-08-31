@@ -1,0 +1,24 @@
+{
+  "name": "sourcetx-html-website",
+  "version": "4.0.0",
+  "private": true,
+  "description": "Expanded publish-ready SourceTX website with HTML service pages, animated SVG illustrations, job applications, employer forms and admin review.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node scripts/check.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "express-rate-limit": "^7.4.1",
+    "helmet": "^8.0.0",
+    "multer": "^2.0.2",
+    "mysql2": "^3.24.2",
+    "nodemailer": "^6.9.16"
+  }
+}

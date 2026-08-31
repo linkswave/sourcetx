@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: sourcetx-website
+    runtime: node
+    plan: starter
+    buildCommand: npm ci
+    startCommand: npm start
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_VERSION
+        value: 20
+      - key: ADMIN_PASSWORD
+        generateValue: true
+      - key: SITE_URL
+        value: https://www.sourcetx.com
+    disk:
+      name: sourcetx-storage
+      mountPath: /opt/render/project/src/storage
+      sizeGB: 1

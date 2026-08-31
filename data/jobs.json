@@ -1,0 +1,2394 @@
+[
+  {
+    "id": "senior-data-engineer",
+    "title": "Senior Data Engineer",
+    "location": "New York, NY / Hybrid",
+    "type": "Contract",
+    "department": "Data & AI",
+    "posted": "2026-07-15",
+    "summary": "Design and optimize cloud data pipelines using Python, Spark, and modern warehouse technologies.",
+    "description": "Our client is seeking a Senior Data Engineer to build reliable batch and streaming data products. You will partner with analytics, platform, and business teams to design scalable ingestion and transformation workflows.",
+    "responsibilities": [
+      "Build and maintain production-grade Spark and Python pipelines",
+      "Design dimensional and lakehouse data models",
+      "Implement data quality, observability, and CI/CD controls",
+      "Collaborate with analysts, architects, and application teams"
+    ],
+    "requirements": [
+      "5+ years of data engineering experience",
+      "Strong Python, SQL, and Apache Spark skills",
+      "Experience with AWS or Azure data services",
+      "Knowledge of orchestration and Git-based delivery"
+    ],
+    "skills": [
+      "Python",
+      "Spark",
+      "SQL",
+      "AWS",
+      "Databricks"
+    ],
+    "active": true
+  },
+  {
+    "id": "senior-data-engineer-ii",
+    "title": "Senior Data Engineer II",
+    "location": "Austin, TX / Hybrid",
+    "type": "Contract-to-Hire",
+    "department": "Data & AI",
+    "posted": "2026-08-21",
+    "summary": "Design, build, and operate scalable cloud pipelines and lakehouse modeling, partnering with analytics and platform teams to ship reliable data products.",
+    "description": "Our client is hiring a Senior Data Engineer II to own scalable cloud pipelines and lakehouse modeling. You will work across analytics, platform, and business teams to deliver scalable ingestion, transformation, and modeling that power confident decisions.",
+    "responsibilities": [
+      "Build and maintain production-grade Spark and Python pipelines",
+      "Design dimensional and lakehouse data models",
+      "Implement data quality, observability, and CI/CD controls",
+      "Collaborate with analysts, architects, and application teams"
+    ],
+    "requirements": [
+      "5+ years of data engineering experience",
+      "Strong Python, SQL, and Apache Spark skills",
+      "Experience with AWS or Azure data services",
+      "Knowledge of orchestration and Git-based delivery"
+    ],
+    "skills": [
+      "SQL",
+      "AWS",
+      "Databricks",
+      "dbt",
+      "Airflow"
+    ],
+    "active": true
+  },
+  {
+    "id": "data-engineer-spark-streaming",
+    "title": "Data Engineer — Spark & Streaming",
+    "location": "Chicago, IL / Hybrid",
+    "type": "Contract",
+    "department": "Data & AI",
+    "posted": "2026-08-18",
+    "summary": "Design, build, and operate real-time batch and streaming pipelines, partnering with analytics and platform teams to ship reliable data products.",
+    "description": "Our client is hiring a Data Engineer — Spark & Streaming to own real-time batch and streaming pipelines. You will work across analytics, platform, and business teams to deliver scalable ingestion, transformation, and modeling that power confident decisions.",
+    "responsibilities": [
+      "Own ingestion and transformation workflows for new data sources",
+      "Define SLAs, monitoring, and alerting for critical data products",
+      "Document data lineage, catalogs, and engineering standards",
+      "Partner with data science on feature and training datasets"
+    ],
+    "requirements": [
+      "Working knowledge of streaming platforms such as Kafka or Kinesis",
+      "Experience with dbt, Airflow, or equivalent tooling",
+      "Familiarity with data governance and security practices",
+      "Clear communication and cross-team collaboration"
+    ],
+    "skills": [
+      "dbt",
+      "Airflow",
+      "Azure",
+      "Kafka",
+      "Redshift"
+    ],
+    "active": true
+  },
+  {
+    "id": "senior-data-engineer-azure",
+    "title": "Senior Data Engineer — Azure",
+    "location": "Jersey City, NJ / Remote",
+    "type": "Direct Hire",
+    "department": "Data & AI",
+    "posted": "2026-08-14",
+    "summary": "Design, build, and operate Azure Synapse, Fabric, and ADLS workloads, partnering with analytics and platform teams to ship reliable data products.",
+    "description": "Our client is hiring a Senior Data Engineer — Azure to own Azure Synapse, Fabric, and ADLS workloads. You will work across analytics, platform, and business teams to deliver scalable ingestion, transformation, and modeling that power confident decisions.",
+    "responsibilities": [
+      "Mentor junior engineers and review data engineering designs",
+      "Automate deployment and testing of data pipelines",
+      "Build and maintain production-grade Spark and Python pipelines",
+      "Design dimensional and lakehouse data models"
+    ],
+    "requirements": [
+      "5+ years of data engineering experience",
+      "Strong Python, SQL, and Apache Spark skills",
+      "Experience with AWS or Azure data services",
+      "Knowledge of orchestration and Git-based delivery"
+    ],
+    "skills": [
+      "Kafka",
+      "Redshift",
+      "Python",
+      "Spark",
+      "SQL"
+    ],
+    "active": true
+  },
+  {
+    "id": "data-warehouse-engineer",
+    "title": "Data Warehouse Engineer",
+    "location": "Dallas, TX / On-site",
+    "type": "Contract",
+    "department": "Data & AI",
+    "posted": "2026-08-11",
+    "summary": "Design, build, and operate dimensional modeling and warehouse optimization, partnering with analytics and platform teams to ship reliable data products.",
+    "description": "Our client is hiring a Data Warehouse Engineer to own dimensional modeling and warehouse optimization. You will work across analytics, platform, and business teams to deliver scalable ingestion, transformation, and modeling that power confident decisions.",
+    "responsibilities": [
+      "Collaborate with analysts, architects, and application teams",
+      "Optimize query performance and warehouse cost",
+      "Own ingestion and transformation workflows for new data sources",
+      "Define SLAs, monitoring, and alerting for critical data products"
+    ],
+    "requirements": [
+      "Working knowledge of streaming platforms such as Kafka or Kinesis",
+      "Experience with dbt, Airflow, or equivalent tooling",
+      "Familiarity with data governance and security practices",
+      "Clear communication and cross-team collaboration"
+    ],
+    "skills": [
+      "Spark",
+      "SQL",
+      "AWS",
+      "Databricks",
+      "dbt"
+    ],
+    "active": true
+  },
+  {
+    "id": "data-platform-engineer",
+    "title": "Data Platform Engineer",
+    "location": "Seattle, WA / Remote",
+    "type": "Contract",
+    "department": "Data & AI",
+    "posted": "2026-08-07",
+    "summary": "Design, build, and operate self-service data platforms and governance, partnering with analytics and platform teams to ship reliable data products.",
+    "description": "Our client is hiring a Data Platform Engineer to own self-service data platforms and governance. You will work across analytics, platform, and business teams to deliver scalable ingestion, transformation, and modeling that power confident decisions.",
+    "responsibilities": [
+      "Partner with data science on feature and training datasets",
+      "Drive migration of legacy ETL to modern lakehouse patterns",
+      "Mentor junior engineers and review data engineering designs",
+      "Automate deployment and testing of data pipelines"
+    ],
+    "requirements": [
+      "5+ years of data engineering experience",
+      "Strong Python, SQL, and Apache Spark skills",
+      "Experience with AWS or Azure data services",
+      "Knowledge of orchestration and Git-based delivery"
+    ],
+    "skills": [
+      "Databricks",
+      "dbt",
+      "Airflow",
+      "Azure",
+      "Kafka"
+    ],
+    "active": true
+  },
+  {
+    "id": "senior-data-engineer-aws",
+    "title": "Senior Data Engineer — AWS",
+    "location": "Remote — United States",
+    "type": "Contract",
+    "department": "Data & AI",
+    "posted": "2026-08-04",
+    "summary": "Design, build, and operate AWS Glue, Redshift, and S3 pipelines, partnering with analytics and platform teams to ship reliable data products.",
+    "description": "Our client is hiring a Senior Data Engineer — AWS to own AWS Glue, Redshift, and S3 pipelines. You will work across analytics, platform, and business teams to deliver scalable ingestion, transformation, and modeling that power confident decisions.",
+    "responsibilities": [
+      "Design dimensional and lakehouse data models",
+      "Implement data quality, observability, and CI/CD controls",
+      "Collaborate with analysts, architects, and application teams",
+      "Optimize query performance and warehouse cost"
+    ],
+    "requirements": [
+      "Working knowledge of streaming platforms such as Kafka or Kinesis",
+      "Experience with dbt, Airflow, or equivalent tooling",
+      "Familiarity with data governance and security practices",
+      "Clear communication and cross-team collaboration"
+    ],
+    "skills": [
+      "Azure",
+      "Kafka",
+      "Redshift",
+      "Python",
+      "Spark"
+    ],
+    "active": true
+  },
+  {
+    "id": "data-engineer-etl-integration",
+    "title": "Data Engineer — ETL & Integration",
+    "location": "Philadelphia, PA / Hybrid",
+    "type": "Contract-to-Hire",
+    "department": "Data & AI",
+    "posted": "2026-07-31",
+    "summary": "Design, build, and operate integration pipelines and API-based ingestion, partnering with analytics and platform teams to ship reliable data products.",
+    "description": "Our client is hiring a Data Engineer — ETL & Integration to own integration pipelines and API-based ingestion. You will work across analytics, platform, and business teams to deliver scalable ingestion, transformation, and modeling that power confident decisions.",
+    "responsibilities": [
+      "Define SLAs, monitoring, and alerting for critical data products",
+      "Document data lineage, catalogs, and engineering standards",
+      "Partner with data science on feature and training datasets",
+      "Drive migration of legacy ETL to modern lakehouse patterns"
+    ],
+    "requirements": [
+      "5+ years of data engineering experience",
+      "Strong Python, SQL, and Apache Spark skills",
+      "Experience with AWS or Azure data services",
+      "Knowledge of orchestration and Git-based delivery"
+    ],
+    "skills": [
+      "Python",
+      "Spark",
+      "SQL",
+      "AWS",
+      "Databricks"
+    ],
+    "active": true
+  },
+  {
+    "id": "senior-data-engineer-databricks",
+    "title": "Senior Data Engineer — Databricks",
+    "location": "Denver, CO / Hybrid",
+    "type": "Direct Hire",
+    "department": "Data & AI",
+    "posted": "2026-07-27",
+    "summary": "Design, build, and operate Databricks lakehouse and Unity Catalog, partnering with analytics and platform teams to ship reliable data products.",
+    "description": "Our client is hiring a Senior Data Engineer — Databricks to own Databricks lakehouse and Unity Catalog. You will work across analytics, platform, and business teams to deliver scalable ingestion, transformation, and modeling that power confident decisions.",
+    "responsibilities": [
+      "Automate deployment and testing of data pipelines",
+      "Build and maintain production-grade Spark and Python pipelines",
+      "Design dimensional and lakehouse data models",
+      "Implement data quality, observability, and CI/CD controls"
+    ],
+    "requirements": [
+      "Working knowledge of streaming platforms such as Kafka or Kinesis",
+      "Experience with dbt, Airflow, or equivalent tooling",
+      "Familiarity with data governance and security practices",
+      "Clear communication and cross-team collaboration"
+    ],
+    "skills": [
+      "AWS",
+      "Databricks",
+      "dbt",
+      "Airflow",
+      "Azure"
+    ],
+    "active": true
+  },
+  {
+    "id": "data-engineer-lakehouse",
+    "title": "Data Engineer — Lakehouse & Streaming",
+    "location": "Tampa, FL / Remote",
+    "type": "Contract",
+    "department": "Data & AI",
+    "posted": "2026-07-22",
+    "summary": "Design, build, and operate lakehouse architecture and streaming products, partnering with analytics and platform teams to ship reliable data products.",
+    "description": "Our client is hiring a Data Engineer — Lakehouse & Streaming to own lakehouse architecture and streaming products. You will work across analytics, platform, and business teams to deliver scalable ingestion, transformation, and modeling that power confident decisions.",
+    "responsibilities": [
+      "Optimize query performance and warehouse cost",
+      "Own ingestion and transformation workflows for new data sources",
+      "Define SLAs, monitoring, and alerting for critical data products",
+      "Document data lineage, catalogs, and engineering standards"
+    ],
+    "requirements": [
+      "5+ years of data engineering experience",
+      "Strong Python, SQL, and Apache Spark skills",
+      "Experience with AWS or Azure data services",
+      "Knowledge of orchestration and Git-based delivery"
+    ],
+    "skills": [
+      "Airflow",
+      "Azure",
+      "Kafka",
+      "Redshift",
+      "Python"
+    ],
+    "active": true
+  },
+  {
+    "id": "big-data-engineer",
+    "title": "Big Data Engineer",
+    "location": "New York, NY / Hybrid",
+    "type": "Contract",
+    "department": "Data & AI",
+    "posted": "2026-08-22",
+    "summary": "Design and scale large-scale batch and streaming data platforms to move high-volume data reliably across the enterprise.",
+    "description": "A client is expanding its big data platform and needs a Big Data Engineer to build and operate large-scale batch and streaming data platforms. You will engineer ingestion, processing, and orchestration that keeps billions of records flowing to analytics and machine learning teams.",
+    "responsibilities": [
+      "Build and tune Spark jobs for batch and streaming workloads",
+      "Design data lake and warehouse structures for high-volume data",
+      "Operate Kafka topics, consumers, and replay processes",
+      "Develop orchestration workflows and pipeline monitoring"
+    ],
+    "requirements": [
+      "4+ years in big data or data engineering roles",
+      "Strong Spark, Scala, or Python experience",
+      "Experience with Kafka or equivalent streaming platforms",
+      "Working knowledge of Hadoop, Hive, or cloud data services"
+    ],
+    "skills": [
+      "Kafka",
+      "Hadoop",
+      "Hive",
+      "AWS",
+      "GCP"
+    ],
+    "active": true
+  },
+  {
+    "id": "big-data-engineer-hadoop",
+    "title": "Big Data Engineer — Hadoop & Hive",
+    "location": "San Jose, CA / On-site",
+    "type": "Contract",
+    "department": "Data & AI",
+    "posted": "2026-08-19",
+    "summary": "Design and scale Hadoop, Hive, and HDFS ecosystems to move high-volume data reliably across the enterprise.",
+    "description": "A client is expanding its big data platform and needs a Big Data Engineer — Hadoop & Hive to build and operate Hadoop, Hive, and HDFS ecosystems. You will engineer ingestion, processing, and orchestration that keeps billions of records flowing to analytics and machine learning teams.",
+    "responsibilities": [
+      "Integrate new source systems into the big data platform",
+      "Maintain data catalog, lineage, and access controls",
+      "Collaborate with data science and analytics teams",
+      "Troubleshoot performance and data-quality issues"
+    ],
+    "requirements": [
+      "Understanding of distributed systems and data partitioning",
+      "Experience with CI/CD and infrastructure-as-code",
+      "Strong problem-solving and production troubleshooting",
+      "Good written and verbal communication"
+    ],
+    "skills": [
+      "AWS",
+      "GCP",
+      "Airflow",
+      "Python",
+      "BigQuery"
+    ],
+    "active": true
+  },
+  {
+    "id": "big-data-engineer-spark-scala",
+    "title": "Big Data Engineer — Spark & Scala",
+    "location": "Austin, TX / Remote",
+    "type": "Contract-to-Hire",
+    "department": "Data & AI",
+    "posted": "2026-08-16",
+    "summary": "Design and scale Spark and Scala processing frameworks to move high-volume data reliably across the enterprise.",
+    "description": "A client is expanding its big data platform and needs a Big Data Engineer — Spark & Scala to build and operate Spark and Scala processing frameworks. You will engineer ingestion, processing, and orchestration that keeps billions of records flowing to analytics and machine learning teams.",
+    "responsibilities": [
+      "Document platform standards and onboarding guides",
+      "Support migration of legacy workloads to modern tooling",
+      "Build and tune Spark jobs for batch and streaming workloads",
+      "Design data lake and warehouse structures for high-volume data"
+    ],
+    "requirements": [
+      "4+ years in big data or data engineering roles",
+      "Strong Spark, Scala, or Python experience",
+      "Experience with Kafka or equivalent streaming platforms",
+      "Working knowledge of Hadoop, Hive, or cloud data services"
+    ],
+    "skills": [
+      "Python",
+      "BigQuery",
+      "Spark",
+      "Scala",
+      "Kafka"
+    ],
+    "active": true
+  },
+  {
+    "id": "big-data-engineer-kafka",
+    "title": "Big Data Engineer — Kafka & Streaming",
+    "location": "Chicago, IL / Hybrid",
+    "type": "Contract",
+    "department": "Data & AI",
+    "posted": "2026-08-13",
+    "summary": "Design and scale Kafka-based real-time data streams to move high-volume data reliably across the enterprise.",
+    "description": "A client is expanding its big data platform and needs a Big Data Engineer — Kafka & Streaming to build and operate Kafka-based real-time data streams. You will engineer ingestion, processing, and orchestration that keeps billions of records flowing to analytics and machine learning teams.",
+    "responsibilities": [
+      "Develop orchestration workflows and pipeline monitoring",
+      "Optimize cluster performance, storage, and compute costs",
+      "Integrate new source systems into the big data platform",
+      "Maintain data catalog, lineage, and access controls"
+    ],
+    "requirements": [
+      "Understanding of distributed systems and data partitioning",
+      "Experience with CI/CD and infrastructure-as-code",
+      "Strong problem-solving and production troubleshooting",
+      "Good written and verbal communication"
+    ],
+    "skills": [
+      "Scala",
+      "Kafka",
+      "Hadoop",
+      "Hive",
+      "AWS"
+    ],
+    "active": true
+  },
+  {
+    "id": "big-data-engineer-aws-emr",
+    "title": "Big Data Engineer — AWS EMR",
+    "location": "Seattle, WA / Remote",
+    "type": "Direct Hire",
+    "department": "Data & AI",
+    "posted": "2026-08-09",
+    "summary": "Design and scale AWS EMR and S3-based analytics to move high-volume data reliably across the enterprise.",
+    "description": "A client is expanding its big data platform and needs a Big Data Engineer — AWS EMR to build and operate AWS EMR and S3-based analytics. You will engineer ingestion, processing, and orchestration that keeps billions of records flowing to analytics and machine learning teams.",
+    "responsibilities": [
+      "Troubleshoot performance and data-quality issues",
+      "Automate testing, deployment, and recovery of pipelines",
+      "Document platform standards and onboarding guides",
+      "Support migration of legacy workloads to modern tooling"
+    ],
+    "requirements": [
+      "4+ years in big data or data engineering roles",
+      "Strong Spark, Scala, or Python experience",
+      "Experience with Kafka or equivalent streaming platforms",
+      "Working knowledge of Hadoop, Hive, or cloud data services"
+    ],
+    "skills": [
+      "Hive",
+      "AWS",
+      "GCP",
+      "Airflow",
+      "Python"
+    ],
+    "active": true
+  },
+  {
+    "id": "big-data-engineer-gcp",
+    "title": "Big Data Engineer — GCP",
+    "location": "Sunnyvale, CA / Hybrid",
+    "type": "Contract",
+    "department": "Data & AI",
+    "posted": "2026-08-05",
+    "summary": "Design and scale BigQuery, Dataflow, and Pub/Sub workloads to move high-volume data reliably across the enterprise.",
+    "description": "A client is expanding its big data platform and needs a Big Data Engineer — GCP to build and operate BigQuery, Dataflow, and Pub/Sub workloads. You will engineer ingestion, processing, and orchestration that keeps billions of records flowing to analytics and machine learning teams.",
+    "responsibilities": [
+      "Design data lake and warehouse structures for high-volume data",
+      "Operate Kafka topics, consumers, and replay processes",
+      "Develop orchestration workflows and pipeline monitoring",
+      "Optimize cluster performance, storage, and compute costs"
+    ],
+    "requirements": [
+      "Understanding of distributed systems and data partitioning",
+      "Experience with CI/CD and infrastructure-as-code",
+      "Strong problem-solving and production troubleshooting",
+      "Good written and verbal communication"
+    ],
+    "skills": [
+      "Airflow",
+      "Python",
+      "BigQuery",
+      "Spark",
+      "Scala"
+    ],
+    "active": true
+  },
+  {
+    "id": "big-data-engineer-azure-synapse",
+    "title": "Big Data Engineer — Azure Synapse",
+    "location": "Dallas, TX / Remote",
+    "type": "Contract",
+    "department": "Data & AI",
+    "posted": "2026-07-30",
+    "summary": "Design and scale Azure Synapse and Data Lake workloads to move high-volume data reliably across the enterprise.",
+    "description": "A client is expanding its big data platform and needs a Big Data Engineer — Azure Synapse to build and operate Azure Synapse and Data Lake workloads. You will engineer ingestion, processing, and orchestration that keeps billions of records flowing to analytics and machine learning teams.",
+    "responsibilities": [
+      "Maintain data catalog, lineage, and access controls",
+      "Collaborate with data science and analytics teams",
+      "Troubleshoot performance and data-quality issues",
+      "Automate testing, deployment, and recovery of pipelines"
+    ],
+    "requirements": [
+      "4+ years in big data or data engineering roles",
+      "Strong Spark, Scala, or Python experience",
+      "Experience with Kafka or equivalent streaming platforms",
+      "Working knowledge of Hadoop, Hive, or cloud data services"
+    ],
+    "skills": [
+      "Spark",
+      "Scala",
+      "Kafka",
+      "Hadoop",
+      "Hive"
+    ],
+    "active": true
+  },
+  {
+    "id": "big-data-engineer-data-lake",
+    "title": "Big Data Engineer — Data Lake",
+    "location": "Denver, CO / Hybrid",
+    "type": "Contract-to-Hire",
+    "department": "Data & AI",
+    "posted": "2026-07-25",
+    "summary": "Design and scale curated data lake architectures to move high-volume data reliably across the enterprise.",
+    "description": "A client is expanding its big data platform and needs a Big Data Engineer — Data Lake to build and operate curated data lake architectures. You will engineer ingestion, processing, and orchestration that keeps billions of records flowing to analytics and machine learning teams.",
+    "responsibilities": [
+      "Support migration of legacy workloads to modern tooling",
+      "Build and tune Spark jobs for batch and streaming workloads",
+      "Design data lake and warehouse structures for high-volume data",
+      "Operate Kafka topics, consumers, and replay processes"
+    ],
+    "requirements": [
+      "Understanding of distributed systems and data partitioning",
+      "Experience with CI/CD and infrastructure-as-code",
+      "Strong problem-solving and production troubleshooting",
+      "Good written and verbal communication"
+    ],
+    "skills": [
+      "Hadoop",
+      "Hive",
+      "AWS",
+      "GCP",
+      "Airflow"
+    ],
+    "active": true
+  },
+  {
+    "id": "big-data-engineer-cloudera",
+    "title": "Big Data Engineer — Cloudera",
+    "location": "Jersey City, NJ / On-site",
+    "type": "Contract",
+    "department": "Data & AI",
+    "posted": "2026-07-21",
+    "summary": "Design and scale Cloudera CDP and on-premise clusters to move high-volume data reliably across the enterprise.",
+    "description": "A client is expanding its big data platform and needs a Big Data Engineer — Cloudera to build and operate Cloudera CDP and on-premise clusters. You will engineer ingestion, processing, and orchestration that keeps billions of records flowing to analytics and machine learning teams.",
+    "responsibilities": [
+      "Optimize cluster performance, storage, and compute costs",
+      "Integrate new source systems into the big data platform",
+      "Maintain data catalog, lineage, and access controls",
+      "Collaborate with data science and analytics teams"
+    ],
+    "requirements": [
+      "4+ years in big data or data engineering roles",
+      "Strong Spark, Scala, or Python experience",
+      "Experience with Kafka or equivalent streaming platforms",
+      "Working knowledge of Hadoop, Hive, or cloud data services"
+    ],
+    "skills": [
+      "GCP",
+      "Airflow",
+      "Python",
+      "BigQuery",
+      "Spark"
+    ],
+    "active": true
+  },
+  {
+    "id": "big-data-engineer-orchestration",
+    "title": "Big Data Engineer — Orchestration",
+    "location": "Remote — United States",
+    "type": "Contract",
+    "department": "Data & AI",
+    "posted": "2026-07-17",
+    "summary": "Design and scale pipeline orchestration and scheduling at scale to move high-volume data reliably across the enterprise.",
+    "description": "A client is expanding its big data platform and needs a Big Data Engineer — Orchestration to build and operate pipeline orchestration and scheduling at scale. You will engineer ingestion, processing, and orchestration that keeps billions of records flowing to analytics and machine learning teams.",
+    "responsibilities": [
+      "Automate testing, deployment, and recovery of pipelines",
+      "Document platform standards and onboarding guides",
+      "Support migration of legacy workloads to modern tooling",
+      "Build and tune Spark jobs for batch and streaming workloads"
+    ],
+    "requirements": [
+      "Understanding of distributed systems and data partitioning",
+      "Experience with CI/CD and infrastructure-as-code",
+      "Strong problem-solving and production troubleshooting",
+      "Good written and verbal communication"
+    ],
+    "skills": [
+      "BigQuery",
+      "Spark",
+      "Scala",
+      "Kafka",
+      "Hadoop"
+    ],
+    "active": true
+  },
+  {
+    "id": "cloud-platform-engineer",
+    "title": "Cloud Platform Engineer",
+    "location": "Jersey City, NJ / Hybrid",
+    "type": "Contract-to-Hire",
+    "department": "Cloud & Infrastructure",
+    "posted": "2026-07-11",
+    "summary": "Build secure cloud foundations, automation, and developer enablement capabilities for a growing enterprise platform.",
+    "description": "Join a cloud enablement team responsible for reusable infrastructure, security guardrails, and operational automation across enterprise workloads.",
+    "responsibilities": [
+      "Develop reusable infrastructure-as-code modules",
+      "Automate platform provisioning and policy enforcement",
+      "Improve monitoring, reliability, and incident response",
+      "Support engineering teams adopting cloud services"
+    ],
+    "requirements": [
+      "4+ years in cloud or platform engineering",
+      "Hands-on Terraform and CI/CD experience",
+      "Strong AWS knowledge",
+      "Familiarity with containers and Kubernetes"
+    ],
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "active": true
+  },
+  {
+    "id": "cloud-platform-engineer-aws",
+    "title": "Cloud Platform Engineer — AWS",
+    "location": "Seattle, WA / Remote",
+    "type": "Direct Hire",
+    "department": "Cloud & Infrastructure",
+    "posted": "2026-08-20",
+    "summary": "Build secure AWS landing zones and platform automation for a growing enterprise platform team.",
+    "description": "Join a cloud enablement team responsible for AWS landing zones and platform automation. You will create reusable infrastructure, guardrails, and operational automation that let product teams ship faster and safer.",
+    "responsibilities": [
+      "Develop reusable infrastructure-as-code modules",
+      "Automate platform provisioning and policy enforcement",
+      "Improve monitoring, reliability, and incident response",
+      "Support engineering teams adopting cloud services"
+    ],
+    "requirements": [
+      "4+ years in cloud or platform engineering",
+      "Hands-on Terraform and CI/CD experience",
+      "Strong AWS knowledge",
+      "Familiarity with containers and Kubernetes"
+    ],
+    "skills": [
+      "Kubernetes",
+      "CI/CD",
+      "GCP",
+      "Azure",
+      "Docker"
+    ],
+    "active": true
+  },
+  {
+    "id": "cloud-infrastructure-engineer",
+    "title": "Cloud Infrastructure Engineer",
+    "location": "Dallas, TX / Hybrid",
+    "type": "Contract",
+    "department": "Cloud & Infrastructure",
+    "posted": "2026-08-15",
+    "summary": "Build secure scalable and cost-efficient cloud infrastructure for a growing enterprise platform team.",
+    "description": "Join a cloud enablement team responsible for scalable and cost-efficient cloud infrastructure. You will create reusable infrastructure, guardrails, and operational automation that let product teams ship faster and safer.",
+    "responsibilities": [
+      "Manage container platforms and application delivery pipelines",
+      "Drive cost visibility, tagging, and optimization",
+      "Operate and tune observability and alerting systems",
+      "Define SLOs and lead reliability improvements"
+    ],
+    "requirements": [
+      "Knowledge of networking, DNS, and security groups",
+      "Experience with observability tools such as Datadog or Prometheus",
+      "Scripting skills in Python, Bash, or Go",
+      "Understanding of SRE practices and incident management"
+    ],
+    "skills": [
+      "Azure",
+      "Docker",
+      "Prometheus",
+      "Python",
+      "Datadog"
+    ],
+    "active": true
+  },
+  {
+    "id": "devops-engineer-kubernetes",
+    "title": "DevOps Engineer — Kubernetes",
+    "location": "Austin, TX / On-site",
+    "type": "Contract",
+    "department": "Cloud & Infrastructure",
+    "posted": "2026-08-10",
+    "summary": "Build secure Kubernetes clusters and application delivery for a growing enterprise platform team.",
+    "description": "Join a cloud enablement team responsible for Kubernetes clusters and application delivery. You will create reusable infrastructure, guardrails, and operational automation that let product teams ship faster and safer.",
+    "responsibilities": [
+      "Automate security scanning and compliance checks",
+      "Collaborate with architecture and security teams",
+      "Develop reusable infrastructure-as-code modules",
+      "Automate platform provisioning and policy enforcement"
+    ],
+    "requirements": [
+      "4+ years in cloud or platform engineering",
+      "Hands-on Terraform and CI/CD experience",
+      "Strong AWS knowledge",
+      "Familiarity with containers and Kubernetes"
+    ],
+    "skills": [
+      "Python",
+      "Datadog",
+      "AWS",
+      "Terraform",
+      "Kubernetes"
+    ],
+    "active": true
+  },
+  {
+    "id": "site-reliability-engineer",
+    "title": "Site Reliability Engineer",
+    "location": "New York, NY / Hybrid",
+    "type": "Contract",
+    "department": "Cloud & Infrastructure",
+    "posted": "2026-08-06",
+    "summary": "Build secure reliability, SLOs, and incident response for a growing enterprise platform team.",
+    "description": "Join a cloud enablement team responsible for reliability, SLOs, and incident response. You will create reusable infrastructure, guardrails, and operational automation that let product teams ship faster and safer.",
+    "responsibilities": [
+      "Support engineering teams adopting cloud services",
+      "Design landing zones with security guardrails and networking",
+      "Manage container platforms and application delivery pipelines",
+      "Drive cost visibility, tagging, and optimization"
+    ],
+    "requirements": [
+      "Knowledge of networking, DNS, and security groups",
+      "Experience with observability tools such as Datadog or Prometheus",
+      "Scripting skills in Python, Bash, or Go",
+      "Understanding of SRE practices and incident management"
+    ],
+    "skills": [
+      "Terraform",
+      "Kubernetes",
+      "CI/CD",
+      "GCP",
+      "Azure"
+    ],
+    "active": true
+  },
+  {
+    "id": "cloud-platform-engineer-gcp",
+    "title": "Cloud Platform Engineer — GCP",
+    "location": "Mountain View, CA / Remote",
+    "type": "Contract-to-Hire",
+    "department": "Cloud & Infrastructure",
+    "posted": "2026-08-02",
+    "summary": "Build secure GCP foundations and developer enablement for a growing enterprise platform team.",
+    "description": "Join a cloud enablement team responsible for GCP foundations and developer enablement. You will create reusable infrastructure, guardrails, and operational automation that let product teams ship faster and safer.",
+    "responsibilities": [
+      "Define SLOs and lead reliability improvements",
+      "Document platform patterns and onboarding guides",
+      "Automate security scanning and compliance checks",
+      "Collaborate with architecture and security teams"
+    ],
+    "requirements": [
+      "4+ years in cloud or platform engineering",
+      "Hands-on Terraform and CI/CD experience",
+      "Strong AWS knowledge",
+      "Familiarity with containers and Kubernetes"
+    ],
+    "skills": [
+      "GCP",
+      "Azure",
+      "Docker",
+      "Prometheus",
+      "Python"
+    ],
+    "active": true
+  },
+  {
+    "id": "infrastructure-automation-engineer",
+    "title": "Infrastructure Automation Engineer",
+    "location": "Pittsburgh, PA / Hybrid",
+    "type": "Direct Hire",
+    "department": "Cloud & Infrastructure",
+    "posted": "2026-07-29",
+    "summary": "Build secure infrastructure-as-code and CI/CD automation for a growing enterprise platform team.",
+    "description": "Join a cloud enablement team responsible for infrastructure-as-code and CI/CD automation. You will create reusable infrastructure, guardrails, and operational automation that let product teams ship faster and safer.",
+    "responsibilities": [
+      "Automate platform provisioning and policy enforcement",
+      "Improve monitoring, reliability, and incident response",
+      "Support engineering teams adopting cloud services",
+      "Design landing zones with security guardrails and networking"
+    ],
+    "requirements": [
+      "Knowledge of networking, DNS, and security groups",
+      "Experience with observability tools such as Datadog or Prometheus",
+      "Scripting skills in Python, Bash, or Go",
+      "Understanding of SRE practices and incident management"
+    ],
+    "skills": [
+      "Prometheus",
+      "Python",
+      "Datadog",
+      "AWS",
+      "Terraform"
+    ],
+    "active": true
+  },
+  {
+    "id": "cloud-engineer-terraform",
+    "title": "Cloud Engineer — Terraform & IaC",
+    "location": "Chicago, IL / Remote",
+    "type": "Contract",
+    "department": "Cloud & Infrastructure",
+    "posted": "2026-07-24",
+    "summary": "Build secure reusable Terraform modules and policy enforcement for a growing enterprise platform team.",
+    "description": "Join a cloud enablement team responsible for reusable Terraform modules and policy enforcement. You will create reusable infrastructure, guardrails, and operational automation that let product teams ship faster and safer.",
+    "responsibilities": [
+      "Drive cost visibility, tagging, and optimization",
+      "Operate and tune observability and alerting systems",
+      "Define SLOs and lead reliability improvements",
+      "Document platform patterns and onboarding guides"
+    ],
+    "requirements": [
+      "4+ years in cloud or platform engineering",
+      "Hands-on Terraform and CI/CD experience",
+      "Strong AWS knowledge",
+      "Familiarity with containers and Kubernetes"
+    ],
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Kubernetes",
+      "CI/CD",
+      "GCP"
+    ],
+    "active": true
+  },
+  {
+    "id": "platform-engineer-azure",
+    "title": "Platform Engineer — Azure",
+    "location": "Reston, VA / Hybrid",
+    "type": "Contract",
+    "department": "Cloud & Infrastructure",
+    "posted": "2026-07-19",
+    "summary": "Build secure Azure platform services and governance for a growing enterprise platform team.",
+    "description": "Join a cloud enablement team responsible for Azure platform services and governance. You will create reusable infrastructure, guardrails, and operational automation that let product teams ship faster and safer.",
+    "responsibilities": [
+      "Collaborate with architecture and security teams",
+      "Develop reusable infrastructure-as-code modules",
+      "Automate platform provisioning and policy enforcement",
+      "Improve monitoring, reliability, and incident response"
+    ],
+    "requirements": [
+      "Knowledge of networking, DNS, and security groups",
+      "Experience with observability tools such as Datadog or Prometheus",
+      "Scripting skills in Python, Bash, or Go",
+      "Understanding of SRE practices and incident management"
+    ],
+    "skills": [
+      "CI/CD",
+      "GCP",
+      "Azure",
+      "Docker",
+      "Prometheus"
+    ],
+    "active": true
+  },
+  {
+    "id": "cloud-ops-engineer",
+    "title": "Cloud Operations Engineer",
+    "location": "Tampa, FL / On-site",
+    "type": "Contract-to-Hire",
+    "department": "Cloud & Infrastructure",
+    "posted": "2026-07-15",
+    "summary": "Build secure cloud operations, monitoring, and cost management for a growing enterprise platform team.",
+    "description": "Join a cloud enablement team responsible for cloud operations, monitoring, and cost management. You will create reusable infrastructure, guardrails, and operational automation that let product teams ship faster and safer.",
+    "responsibilities": [
+      "Design landing zones with security guardrails and networking",
+      "Manage container platforms and application delivery pipelines",
+      "Drive cost visibility, tagging, and optimization",
+      "Operate and tune observability and alerting systems"
+    ],
+    "requirements": [
+      "4+ years in cloud or platform engineering",
+      "Hands-on Terraform and CI/CD experience",
+      "Strong AWS knowledge",
+      "Familiarity with containers and Kubernetes"
+    ],
+    "skills": [
+      "Docker",
+      "Prometheus",
+      "Python",
+      "Datadog",
+      "AWS"
+    ],
+    "active": true
+  },
+  {
+    "id": "cybersecurity-analyst",
+    "title": "Cybersecurity Analyst",
+    "location": "Tampa, FL / On-site",
+    "type": "Direct Hire",
+    "department": "Cybersecurity",
+    "posted": "2026-07-08",
+    "summary": "Monitor security events, investigate threats, and strengthen controls in a regulated environment.",
+    "description": "The Cybersecurity Analyst will work with security operations and infrastructure teams to identify, investigate, and remediate threats while improving security processes.",
+    "responsibilities": [
+      "Triage SIEM alerts and investigate incidents",
+      "Coordinate remediation with technology teams",
+      "Maintain playbooks and security documentation",
+      "Support vulnerability and compliance programs"
+    ],
+    "requirements": [
+      "3+ years in security operations",
+      "Experience with SIEM and endpoint security tools",
+      "Knowledge of incident response practices",
+      "Clear written and verbal communication"
+    ],
+    "skills": [
+      "SIEM",
+      "Incident Response",
+      "Vulnerability Management"
+    ],
+    "active": true
+  },
+  {
+    "id": "security-operations-analyst",
+    "title": "Security Operations Analyst",
+    "location": "Fort Lee, NJ / Hybrid",
+    "type": "Contract",
+    "department": "Cybersecurity",
+    "posted": "2026-08-19",
+    "summary": "Protect the organization by driving around-the-clock security monitoring and triage with clear process and measurable outcomes.",
+    "description": "The Security Operations Analyst will help around-the-clock security monitoring and triage while partnering with security operations and infrastructure teams to keep a regulated environment safe.",
+    "responsibilities": [
+      "Triage SIEM alerts and investigate incidents",
+      "Coordinate remediation with technology teams",
+      "Maintain playbooks and security documentation",
+      "Support vulnerability and compliance programs"
+    ],
+    "requirements": [
+      "3+ years in security operations",
+      "Experience with SIEM and endpoint security tools",
+      "Knowledge of incident response practices",
+      "Clear written and verbal communication"
+    ],
+    "skills": [
+      "Vulnerability Management",
+      "Cloud Security",
+      "IAM",
+      "NIST",
+      "Threat Intelligence"
+    ],
+    "active": true
+  },
+  {
+    "id": "soc-analyst-tier-2",
+    "title": "SOC Analyst — Tier 2",
+    "location": "Jersey City, NJ / On-site",
+    "type": "Contract",
+    "department": "Cybersecurity",
+    "posted": "2026-08-14",
+    "summary": "Protect the organization by driving advanced threat hunting and escalation with clear process and measurable outcomes.",
+    "description": "The SOC Analyst — Tier 2 will help advanced threat hunting and escalation while partnering with security operations and infrastructure teams to keep a regulated environment safe.",
+    "responsibilities": [
+      "Perform threat hunting and root-cause analysis",
+      "Manage identity reviews and access governance",
+      "Prepare executive and stakeholder reporting",
+      "Assist with audits and control evidence"
+    ],
+    "requirements": [
+      "Experience with vulnerability scanning and remediation",
+      "Understanding of cloud security (AWS, Azure, or GCP)",
+      "Working knowledge of identity and access management",
+      "Ability to document processes and build playbooks"
+    ],
+    "skills": [
+      "NIST",
+      "Threat Intelligence",
+      "Endpoint Detection",
+      "Forensics",
+      "Auditing"
+    ],
+    "active": true
+  },
+  {
+    "id": "threat-intelligence-analyst",
+    "title": "Threat Intelligence Analyst",
+    "location": "Remote — United States",
+    "type": "Direct Hire",
+    "department": "Cybersecurity",
+    "posted": "2026-08-08",
+    "summary": "Protect the organization by driving threat research and intelligence reporting with clear process and measurable outcomes.",
+    "description": "The Threat Intelligence Analyst will help threat research and intelligence reporting while partnering with security operations and infrastructure teams to keep a regulated environment safe.",
+    "responsibilities": [
+      "Monitor cloud security posture and misconfigurations",
+      "Deliver security awareness guidance to teams",
+      "Triage SIEM alerts and investigate incidents",
+      "Coordinate remediation with technology teams"
+    ],
+    "requirements": [
+      "3+ years in security operations",
+      "Experience with SIEM and endpoint security tools",
+      "Knowledge of incident response practices",
+      "Clear written and verbal communication"
+    ],
+    "skills": [
+      "Forensics",
+      "Auditing",
+      "SIEM",
+      "Incident Response",
+      "Vulnerability Management"
+    ],
+    "active": true
+  },
+  {
+    "id": "vulnerability-management-analyst",
+    "title": "Vulnerability Management Analyst",
+    "location": "Pittsburgh, PA / Hybrid",
+    "type": "Contract-to-Hire",
+    "department": "Cybersecurity",
+    "posted": "2026-08-03",
+    "summary": "Protect the organization by driving vulnerability scanning and remediation with clear process and measurable outcomes.",
+    "description": "The Vulnerability Management Analyst will help vulnerability scanning and remediation while partnering with security operations and infrastructure teams to keep a regulated environment safe.",
+    "responsibilities": [
+      "Support vulnerability and compliance programs",
+      "Develop and tune detection rules and use cases",
+      "Perform threat hunting and root-cause analysis",
+      "Manage identity reviews and access governance"
+    ],
+    "requirements": [
+      "Experience with vulnerability scanning and remediation",
+      "Understanding of cloud security (AWS, Azure, or GCP)",
+      "Working knowledge of identity and access management",
+      "Ability to document processes and build playbooks"
+    ],
+    "skills": [
+      "Incident Response",
+      "Vulnerability Management",
+      "Cloud Security",
+      "IAM",
+      "NIST"
+    ],
+    "active": true
+  },
+  {
+    "id": "incident-response-analyst",
+    "title": "Incident Response Analyst",
+    "location": "New York, NY / On-site",
+    "type": "Contract",
+    "department": "Cybersecurity",
+    "posted": "2026-07-30",
+    "summary": "Protect the organization by driving incident response and forensics with clear process and measurable outcomes.",
+    "description": "The Incident Response Analyst will help incident response and forensics while partnering with security operations and infrastructure teams to keep a regulated environment safe.",
+    "responsibilities": [
+      "Assist with audits and control evidence",
+      "Automate alerting and response workflows",
+      "Monitor cloud security posture and misconfigurations",
+      "Deliver security awareness guidance to teams"
+    ],
+    "requirements": [
+      "3+ years in security operations",
+      "Experience with SIEM and endpoint security tools",
+      "Knowledge of incident response practices",
+      "Clear written and verbal communication"
+    ],
+    "skills": [
+      "IAM",
+      "NIST",
+      "Threat Intelligence",
+      "Endpoint Detection",
+      "Forensics"
+    ],
+    "active": true
+  },
+  {
+    "id": "cloud-security-analyst",
+    "title": "Cloud Security Analyst",
+    "location": "Seattle, WA / Remote",
+    "type": "Direct Hire",
+    "department": "Cybersecurity",
+    "posted": "2026-07-26",
+    "summary": "Protect the organization by driving cloud security monitoring and posture with clear process and measurable outcomes.",
+    "description": "The Cloud Security Analyst will help cloud security monitoring and posture while partnering with security operations and infrastructure teams to keep a regulated environment safe.",
+    "responsibilities": [
+      "Coordinate remediation with technology teams",
+      "Maintain playbooks and security documentation",
+      "Support vulnerability and compliance programs",
+      "Develop and tune detection rules and use cases"
+    ],
+    "requirements": [
+      "Experience with vulnerability scanning and remediation",
+      "Understanding of cloud security (AWS, Azure, or GCP)",
+      "Working knowledge of identity and access management",
+      "Ability to document processes and build playbooks"
+    ],
+    "skills": [
+      "Endpoint Detection",
+      "Forensics",
+      "Auditing",
+      "SIEM",
+      "Incident Response"
+    ],
+    "active": true
+  },
+  {
+    "id": "compliance-security-analyst",
+    "title": "Compliance & Security Analyst",
+    "location": "London, United Kingdom / Hybrid",
+    "type": "Contract",
+    "department": "Cybersecurity",
+    "posted": "2026-07-22",
+    "summary": "Protect the organization by driving regulatory compliance and audit support with clear process and measurable outcomes.",
+    "description": "The Compliance & Security Analyst will help regulatory compliance and audit support while partnering with security operations and infrastructure teams to keep a regulated environment safe.",
+    "responsibilities": [
+      "Manage identity reviews and access governance",
+      "Prepare executive and stakeholder reporting",
+      "Assist with audits and control evidence",
+      "Automate alerting and response workflows"
+    ],
+    "requirements": [
+      "3+ years in security operations",
+      "Experience with SIEM and endpoint security tools",
+      "Knowledge of incident response practices",
+      "Clear written and verbal communication"
+    ],
+    "skills": [
+      "SIEM",
+      "Incident Response",
+      "Vulnerability Management",
+      "Cloud Security",
+      "IAM"
+    ],
+    "active": true
+  },
+  {
+    "id": "detection-engineering-analyst",
+    "title": "Security Engineer — Detection & Response",
+    "location": "Austin, TX / Hybrid",
+    "type": "Contract-to-Hire",
+    "department": "Cybersecurity",
+    "posted": "2026-07-18",
+    "summary": "Protect the organization by driving detection rules and response automation with clear process and measurable outcomes.",
+    "description": "The Security Engineer — Detection & Response will help detection rules and response automation while partnering with security operations and infrastructure teams to keep a regulated environment safe.",
+    "responsibilities": [
+      "Deliver security awareness guidance to teams",
+      "Triage SIEM alerts and investigate incidents",
+      "Coordinate remediation with technology teams",
+      "Maintain playbooks and security documentation"
+    ],
+    "requirements": [
+      "Experience with vulnerability scanning and remediation",
+      "Understanding of cloud security (AWS, Azure, or GCP)",
+      "Working knowledge of identity and access management",
+      "Ability to document processes and build playbooks"
+    ],
+    "skills": [
+      "Cloud Security",
+      "IAM",
+      "NIST",
+      "Threat Intelligence",
+      "Endpoint Detection"
+    ],
+    "active": true
+  },
+  {
+    "id": "identity-security-analyst",
+    "title": "Identity & Access Security Analyst",
+    "location": "Chicago, IL / Remote",
+    "type": "Direct Hire",
+    "department": "Cybersecurity",
+    "posted": "2026-07-14",
+    "summary": "Protect the organization by driving identity lifecycle and access governance with clear process and measurable outcomes.",
+    "description": "The Identity & Access Security Analyst will help identity lifecycle and access governance while partnering with security operations and infrastructure teams to keep a regulated environment safe.",
+    "responsibilities": [
+      "Develop and tune detection rules and use cases",
+      "Perform threat hunting and root-cause analysis",
+      "Manage identity reviews and access governance",
+      "Prepare executive and stakeholder reporting"
+    ],
+    "requirements": [
+      "3+ years in security operations",
+      "Experience with SIEM and endpoint security tools",
+      "Knowledge of incident response practices",
+      "Clear written and verbal communication"
+    ],
+    "skills": [
+      "Threat Intelligence",
+      "Endpoint Detection",
+      "Forensics",
+      "Auditing",
+      "SIEM"
+    ],
+    "active": true
+  },
+  {
+    "id": "technical-project-manager",
+    "title": "Technical Project Manager",
+    "location": "Remote — United States",
+    "type": "Contract",
+    "department": "Program Delivery",
+    "posted": "2026-07-03",
+    "summary": "Lead cross-functional cloud and data initiatives from planning through production delivery.",
+    "description": "We are looking for a delivery-focused Technical Project Manager who can coordinate business and engineering stakeholders across complex technology programs.",
+    "responsibilities": [
+      "Own delivery plans, dependencies, risks, and executive reporting",
+      "Facilitate agile ceremonies and decision-making",
+      "Coordinate release readiness and change management",
+      "Drive issue resolution across teams"
+    ],
+    "requirements": [
+      "5+ years managing technology initiatives",
+      "Experience with cloud, data, or software programs",
+      "Strong stakeholder and vendor management",
+      "Agile delivery experience"
+    ],
+    "skills": [
+      "Agile",
+      "Cloud",
+      "Stakeholder Management"
+    ],
+    "active": true
+  },
+  {
+    "id": "senior-technical-project-manager",
+    "title": "Senior Technical Project Manager",
+    "location": "New York, NY / Hybrid",
+    "type": "Direct Hire",
+    "department": "Program Delivery",
+    "posted": "2026-08-18",
+    "summary": "Lead complex technology programs with multiple workstreams from planning through production delivery.",
+    "description": "We are looking for a delivery-focused Senior Technical Project Manager who can coordinate business and engineering stakeholders across complex technology programs with multiple workstreams.",
+    "responsibilities": [
+      "Own delivery plans, dependencies, risks, and executive reporting",
+      "Facilitate agile ceremonies and decision-making",
+      "Coordinate release readiness and change management",
+      "Drive issue resolution across teams"
+    ],
+    "requirements": [
+      "5+ years managing technology initiatives",
+      "Experience with cloud, data, or software programs",
+      "Strong stakeholder and vendor management",
+      "Agile delivery experience"
+    ],
+    "skills": [
+      "Stakeholder Management",
+      "Jira",
+      "Risk Management",
+      "PMP",
+      "Budgeting"
+    ],
+    "active": true
+  },
+  {
+    "id": "it-project-manager",
+    "title": "IT Project Manager",
+    "location": "Jersey City, NJ / Hybrid",
+    "type": "Contract",
+    "department": "Program Delivery",
+    "posted": "2026-08-12",
+    "summary": "Lead infrastructure and application delivery programs from planning through production delivery.",
+    "description": "We are looking for a delivery-focused IT Project Manager who can coordinate business and engineering stakeholders across infrastructure and application delivery programs.",
+    "responsibilities": [
+      "Build and track program-level roadmaps and milestones",
+      "Facilitate stakeholder communication and status reporting",
+      "Lead discovery, scoping, and estimation sessions",
+      "Identify and mitigate delivery and technical risks"
+    ],
+    "requirements": [
+      "Experience with financial services or regulated industries",
+      "Strong written and presentation skills",
+      "Proficiency with tools such as Jira and MS Project",
+      "Certifications such as PMP, CSM, or SAFe are a plus"
+    ],
+    "skills": [
+      "PMP",
+      "Budgeting",
+      "Vendor Management",
+      "Roadmapping",
+      "Change Management"
+    ],
+    "active": true
+  },
+  {
+    "id": "cloud-program-manager",
+    "title": "Cloud Program Manager",
+    "location": "Seattle, WA / Remote",
+    "type": "Contract",
+    "department": "Program Delivery",
+    "posted": "2026-08-06",
+    "summary": "Lead enterprise cloud migration programs from planning through production delivery.",
+    "description": "We are looking for a delivery-focused Cloud Program Manager who can coordinate business and engineering stakeholders across enterprise cloud migration programs.",
+    "responsibilities": [
+      "Manage governance, approvals, and intake processes",
+      "Conduct retrospectives and drive continuous improvement",
+      "Own delivery plans, dependencies, risks, and executive reporting",
+      "Facilitate agile ceremonies and decision-making"
+    ],
+    "requirements": [
+      "5+ years managing technology initiatives",
+      "Experience with cloud, data, or software programs",
+      "Strong stakeholder and vendor management",
+      "Agile delivery experience"
+    ],
+    "skills": [
+      "Roadmapping",
+      "Change Management",
+      "Agile",
+      "Cloud",
+      "Stakeholder Management"
+    ],
+    "active": true
+  },
+  {
+    "id": "data-project-manager",
+    "title": "Data Project Manager",
+    "location": "Dallas, TX / Hybrid",
+    "type": "Contract-to-Hire",
+    "department": "Program Delivery",
+    "posted": "2026-07-31",
+    "summary": "Lead data platform and analytics initiatives from planning through production delivery.",
+    "description": "We are looking for a delivery-focused Data Project Manager who can coordinate business and engineering stakeholders across data platform and analytics initiatives.",
+    "responsibilities": [
+      "Drive issue resolution across teams",
+      "Manage budgets, resource plans, and vendor relationships",
+      "Build and track program-level roadmaps and milestones",
+      "Facilitate stakeholder communication and status reporting"
+    ],
+    "requirements": [
+      "Experience with financial services or regulated industries",
+      "Strong written and presentation skills",
+      "Proficiency with tools such as Jira and MS Project",
+      "Certifications such as PMP, CSM, or SAFe are a plus"
+    ],
+    "skills": [
+      "Cloud",
+      "Stakeholder Management",
+      "Jira",
+      "Risk Management",
+      "PMP"
+    ],
+    "active": true
+  },
+  {
+    "id": "agile-delivery-lead",
+    "title": "Agile Delivery Lead",
+    "location": "Chicago, IL / On-site",
+    "type": "Contract",
+    "department": "Program Delivery",
+    "posted": "2026-07-26",
+    "summary": "Lead agile delivery and team facilitation from planning through production delivery.",
+    "description": "We are looking for a delivery-focused Agile Delivery Lead who can coordinate business and engineering stakeholders across agile delivery and team facilitation.",
+    "responsibilities": [
+      "Identify and mitigate delivery and technical risks",
+      "Align program outcomes with business value",
+      "Manage governance, approvals, and intake processes",
+      "Conduct retrospectives and drive continuous improvement"
+    ],
+    "requirements": [
+      "5+ years managing technology initiatives",
+      "Experience with cloud, data, or software programs",
+      "Strong stakeholder and vendor management",
+      "Agile delivery experience"
+    ],
+    "skills": [
+      "Risk Management",
+      "PMP",
+      "Budgeting",
+      "Vendor Management",
+      "Roadmapping"
+    ],
+    "active": true
+  },
+  {
+    "id": "technical-delivery-manager",
+    "title": "Technical Delivery Manager",
+    "location": "Remote — United States",
+    "type": "Direct Hire",
+    "department": "Program Delivery",
+    "posted": "2026-07-21",
+    "summary": "Lead end-to-end delivery of software engagements from planning through production delivery.",
+    "description": "We are looking for a delivery-focused Technical Delivery Manager who can coordinate business and engineering stakeholders across end-to-end delivery of software engagements.",
+    "responsibilities": [
+      "Facilitate agile ceremonies and decision-making",
+      "Coordinate release readiness and change management",
+      "Drive issue resolution across teams",
+      "Manage budgets, resource plans, and vendor relationships"
+    ],
+    "requirements": [
+      "Experience with financial services or regulated industries",
+      "Strong written and presentation skills",
+      "Proficiency with tools such as Jira and MS Project",
+      "Certifications such as PMP, CSM, or SAFe are a plus"
+    ],
+    "skills": [
+      "Vendor Management",
+      "Roadmapping",
+      "Change Management",
+      "Agile",
+      "Cloud"
+    ],
+    "active": true
+  },
+  {
+    "id": "cybersecurity-program-manager",
+    "title": "Cybersecurity Program Manager",
+    "location": "Washington, DC / Hybrid",
+    "type": "Contract",
+    "department": "Program Delivery",
+    "posted": "2026-07-16",
+    "summary": "Lead security and compliance programs from planning through production delivery.",
+    "description": "We are looking for a delivery-focused Cybersecurity Program Manager who can coordinate business and engineering stakeholders across security and compliance programs.",
+    "responsibilities": [
+      "Facilitate stakeholder communication and status reporting",
+      "Lead discovery, scoping, and estimation sessions",
+      "Identify and mitigate delivery and technical risks",
+      "Align program outcomes with business value"
+    ],
+    "requirements": [
+      "5+ years managing technology initiatives",
+      "Experience with cloud, data, or software programs",
+      "Strong stakeholder and vendor management",
+      "Agile delivery experience"
+    ],
+    "skills": [
+      "Agile",
+      "Cloud",
+      "Stakeholder Management",
+      "Jira",
+      "Risk Management"
+    ],
+    "active": true
+  },
+  {
+    "id": "software-project-manager",
+    "title": "Software Project Manager",
+    "location": "Pittsburgh, PA / Hybrid",
+    "type": "Contract-to-Hire",
+    "department": "Program Delivery",
+    "posted": "2026-07-10",
+    "summary": "Lead software product releases and timelines from planning through production delivery.",
+    "description": "We are looking for a delivery-focused Software Project Manager who can coordinate business and engineering stakeholders across software product releases and timelines.",
+    "responsibilities": [
+      "Conduct retrospectives and drive continuous improvement",
+      "Own delivery plans, dependencies, risks, and executive reporting",
+      "Facilitate agile ceremonies and decision-making",
+      "Coordinate release readiness and change management"
+    ],
+    "requirements": [
+      "Experience with financial services or regulated industries",
+      "Strong written and presentation skills",
+      "Proficiency with tools such as Jira and MS Project",
+      "Certifications such as PMP, CSM, or SAFe are a plus"
+    ],
+    "skills": [
+      "Jira",
+      "Risk Management",
+      "PMP",
+      "Budgeting",
+      "Vendor Management"
+    ],
+    "active": true
+  },
+  {
+    "id": "implementation-project-manager",
+    "title": "Implementation Project Manager",
+    "location": "Tampa, FL / Remote",
+    "type": "Contract",
+    "department": "Program Delivery",
+    "posted": "2026-07-05",
+    "summary": "Lead client implementations and onboarding from planning through production delivery.",
+    "description": "We are looking for a delivery-focused Implementation Project Manager who can coordinate business and engineering stakeholders across client implementations and onboarding.",
+    "responsibilities": [
+      "Manage budgets, resource plans, and vendor relationships",
+      "Build and track program-level roadmaps and milestones",
+      "Facilitate stakeholder communication and status reporting",
+      "Lead discovery, scoping, and estimation sessions"
+    ],
+    "requirements": [
+      "5+ years managing technology initiatives",
+      "Experience with cloud, data, or software programs",
+      "Strong stakeholder and vendor management",
+      "Agile delivery experience"
+    ],
+    "skills": [
+      "Budgeting",
+      "Vendor Management",
+      "Roadmapping",
+      "Change Management",
+      "Agile"
+    ],
+    "active": true
+  },
+  {
+    "id": "full-stack-developer",
+    "title": "Full-Stack Developer",
+    "location": "Pittsburgh, PA / Hybrid",
+    "type": "Direct Hire",
+    "department": "Software Engineering",
+    "posted": "2026-06-29",
+    "summary": "Develop modern web applications and APIs using JavaScript, React, and Node.js.",
+    "description": "This role joins a product engineering team modernizing customer-facing applications and internal services.",
+    "responsibilities": [
+      "Build accessible responsive user interfaces",
+      "Develop and document REST APIs",
+      "Write automated tests and participate in code reviews",
+      "Support production releases and troubleshooting"
+    ],
+    "requirements": [
+      "4+ years of full-stack development",
+      "Strong React and Node.js knowledge",
+      "Experience with relational databases",
+      "Understanding of secure development practices"
+    ],
+    "skills": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "active": true
+  },
+  {
+    "id": "full-stack-engineer-react-node",
+    "title": "Full-Stack Engineer — React & Node",
+    "location": "New York, NY / Hybrid",
+    "type": "Contract",
+    "department": "Software Engineering",
+    "posted": "2026-08-17",
+    "summary": "Develop modern web applications and APIs for customer-facing applications on React and Node.js.",
+    "description": "This role joins a product engineering team building and maintaining customer-facing applications on React and Node.js. You will ship accessible interfaces, robust APIs, and well-tested services.",
+    "responsibilities": [
+      "Build accessible responsive user interfaces",
+      "Develop and document REST APIs",
+      "Write automated tests and participate in code reviews",
+      "Support production releases and troubleshooting"
+    ],
+    "requirements": [
+      "4+ years of full-stack development",
+      "Strong React and Node.js knowledge",
+      "Experience with relational databases",
+      "Understanding of secure development practices"
+    ],
+    "skills": [
+      "TypeScript",
+      "PostgreSQL",
+      "JavaScript",
+      "CSS",
+      "REST APIs"
+    ],
+    "active": true
+  },
+  {
+    "id": "full-stack-developer-typescript",
+    "title": "Full-Stack Developer — TypeScript",
+    "location": "Austin, TX / Remote",
+    "type": "Contract",
+    "department": "Software Engineering",
+    "posted": "2026-08-11",
+    "summary": "Develop modern web applications and APIs for TypeScript-first web applications and APIs.",
+    "description": "This role joins a product engineering team building and maintaining TypeScript-first web applications and APIs. You will ship accessible interfaces, robust APIs, and well-tested services.",
+    "responsibilities": [
+      "Optimize application performance and accessibility",
+      "Integrate third-party services and APIs",
+      "Maintain and refactor legacy application code",
+      "Define frontend and backend technical standards"
+    ],
+    "requirements": [
+      "Familiarity with modern CSS and responsive design",
+      "Experience with cloud deployment and CI/CD",
+      "Knowledge of testing frameworks and tooling",
+      "Strong collaboration and communication skills"
+    ],
+    "skills": [
+      "CSS",
+      "REST APIs",
+      "AWS",
+      "Docker",
+      "Testing"
+    ],
+    "active": true
+  },
+  {
+    "id": "frontend-developer-react",
+    "title": "Frontend Developer — React",
+    "location": "Chicago, IL / Hybrid",
+    "type": "Contract-to-Hire",
+    "department": "Software Engineering",
+    "posted": "2026-08-05",
+    "summary": "Develop modern web applications and APIs for accessible React interfaces and design systems.",
+    "description": "This role joins a product engineering team building and maintaining accessible React interfaces and design systems. You will ship accessible interfaces, robust APIs, and well-tested services.",
+    "responsibilities": [
+      "Implement secure authentication and authorization flows",
+      "Monitor and improve application reliability",
+      "Build accessible responsive user interfaces",
+      "Develop and document REST APIs"
+    ],
+    "requirements": [
+      "4+ years of full-stack development",
+      "Strong React and Node.js knowledge",
+      "Experience with relational databases",
+      "Understanding of secure development practices"
+    ],
+    "skills": [
+      "Docker",
+      "Testing",
+      "React",
+      "Node.js",
+      "TypeScript"
+    ],
+    "active": true
+  },
+  {
+    "id": "backend-developer-node",
+    "title": "Backend Developer — Node.js",
+    "location": "Denver, CO / Remote",
+    "type": "Direct Hire",
+    "department": "Software Engineering",
+    "posted": "2026-07-29",
+    "summary": "Develop modern web applications and APIs for Node.js services and integrations.",
+    "description": "This role joins a product engineering team building and maintaining Node.js services and integrations. You will ship accessible interfaces, robust APIs, and well-tested services.",
+    "responsibilities": [
+      "Support production releases and troubleshooting",
+      "Collaborate with designers, product, and QA",
+      "Optimize application performance and accessibility",
+      "Integrate third-party services and APIs"
+    ],
+    "requirements": [
+      "Familiarity with modern CSS and responsive design",
+      "Experience with cloud deployment and CI/CD",
+      "Knowledge of testing frameworks and tooling",
+      "Strong collaboration and communication skills"
+    ],
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL",
+      "JavaScript",
+      "CSS"
+    ],
+    "active": true
+  },
+  {
+    "id": "full-stack-developer-python-django",
+    "title": "Full-Stack Developer — Python & Django",
+    "location": "Remote — United States",
+    "type": "Contract",
+    "department": "Software Engineering",
+    "posted": "2026-07-23",
+    "summary": "Develop modern web applications and APIs for Python and Django web applications.",
+    "description": "This role joins a product engineering team building and maintaining Python and Django web applications. You will ship accessible interfaces, robust APIs, and well-tested services.",
+    "responsibilities": [
+      "Define frontend and backend technical standards",
+      "Mentor developers and lead feature delivery",
+      "Implement secure authentication and authorization flows",
+      "Monitor and improve application reliability"
+    ],
+    "requirements": [
+      "4+ years of full-stack development",
+      "Strong React and Node.js knowledge",
+      "Experience with relational databases",
+      "Understanding of secure development practices"
+    ],
+    "skills": [
+      "JavaScript",
+      "CSS",
+      "REST APIs",
+      "AWS",
+      "Docker"
+    ],
+    "active": true
+  },
+  {
+    "id": "javascript-developer-saas",
+    "title": "JavaScript Developer — SaaS Platform",
+    "location": "Jersey City, NJ / On-site",
+    "type": "Contract",
+    "department": "Software Engineering",
+    "posted": "2026-07-17",
+    "summary": "Develop modern web applications and APIs for a growing SaaS product platform.",
+    "description": "This role joins a product engineering team building and maintaining a growing SaaS product platform. You will ship accessible interfaces, robust APIs, and well-tested services.",
+    "responsibilities": [
+      "Develop and document REST APIs",
+      "Write automated tests and participate in code reviews",
+      "Support production releases and troubleshooting",
+      "Collaborate with designers, product, and QA"
+    ],
+    "requirements": [
+      "Familiarity with modern CSS and responsive design",
+      "Experience with cloud deployment and CI/CD",
+      "Knowledge of testing frameworks and tooling",
+      "Strong collaboration and communication skills"
+    ],
+    "skills": [
+      "AWS",
+      "Docker",
+      "Testing",
+      "React",
+      "Node.js"
+    ],
+    "active": true
+  },
+  {
+    "id": "full-stack-engineer-nextjs",
+    "title": "Full-Stack Engineer — Next.js",
+    "location": "Seattle, WA / Remote",
+    "type": "Direct Hire",
+    "department": "Software Engineering",
+    "posted": "2026-07-11",
+    "summary": "Develop modern web applications and APIs for Next.js applications and headless content.",
+    "description": "This role joins a product engineering team building and maintaining Next.js applications and headless content. You will ship accessible interfaces, robust APIs, and well-tested services.",
+    "responsibilities": [
+      "Integrate third-party services and APIs",
+      "Maintain and refactor legacy application code",
+      "Define frontend and backend technical standards",
+      "Mentor developers and lead feature delivery"
+    ],
+    "requirements": [
+      "4+ years of full-stack development",
+      "Strong React and Node.js knowledge",
+      "Experience with relational databases",
+      "Understanding of secure development practices"
+    ],
+    "skills": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL",
+      "JavaScript"
+    ],
+    "active": true
+  },
+  {
+    "id": "api-developer-node-postgres",
+    "title": "API Developer — Node.js & PostgreSQL",
+    "location": "Philadelphia, PA / Hybrid",
+    "type": "Contract-to-Hire",
+    "department": "Software Engineering",
+    "posted": "2026-07-06",
+    "summary": "Develop modern web applications and APIs for REST APIs and data services.",
+    "description": "This role joins a product engineering team building and maintaining REST APIs and data services. You will ship accessible interfaces, robust APIs, and well-tested services.",
+    "responsibilities": [
+      "Monitor and improve application reliability",
+      "Build accessible responsive user interfaces",
+      "Develop and document REST APIs",
+      "Write automated tests and participate in code reviews"
+    ],
+    "requirements": [
+      "Familiarity with modern CSS and responsive design",
+      "Experience with cloud deployment and CI/CD",
+      "Knowledge of testing frameworks and tooling",
+      "Strong collaboration and communication skills"
+    ],
+    "skills": [
+      "PostgreSQL",
+      "JavaScript",
+      "CSS",
+      "REST APIs",
+      "AWS"
+    ],
+    "active": true
+  },
+  {
+    "id": "full-stack-developer-react-python",
+    "title": "Full-Stack Developer — React & Python",
+    "location": "Dallas, TX / Remote",
+    "type": "Contract",
+    "department": "Software Engineering",
+    "posted": "2026-06-30",
+    "summary": "Develop modern web applications and APIs for React frontends and Python backends.",
+    "description": "This role joins a product engineering team building and maintaining React frontends and Python backends. You will ship accessible interfaces, robust APIs, and well-tested services.",
+    "responsibilities": [
+      "Collaborate with designers, product, and QA",
+      "Optimize application performance and accessibility",
+      "Integrate third-party services and APIs",
+      "Maintain and refactor legacy application code"
+    ],
+    "requirements": [
+      "4+ years of full-stack development",
+      "Strong React and Node.js knowledge",
+      "Experience with relational databases",
+      "Understanding of secure development practices"
+    ],
+    "skills": [
+      "REST APIs",
+      "AWS",
+      "Docker",
+      "Testing",
+      "React"
+    ],
+    "active": true
+  },
+  {
+    "id": "business-systems-analyst",
+    "title": "Business Systems Analyst",
+    "location": "London, United Kingdom / Hybrid",
+    "type": "Direct Hire",
+    "department": "Business Technology",
+    "posted": "2026-06-24",
+    "summary": "Translate business needs into practical technology requirements and process improvements.",
+    "description": "The analyst will bridge business and technology teams, documenting requirements and supporting delivery of operational improvements.",
+    "responsibilities": [
+      "Facilitate discovery sessions and document requirements",
+      "Map current and future-state processes",
+      "Support testing, training, and rollout activities",
+      "Maintain traceability and stakeholder communication"
+    ],
+    "requirements": [
+      "3+ years of business analysis experience",
+      "Strong requirements and process modeling skills",
+      "Experience in agile delivery environments",
+      "Excellent communication and facilitation"
+    ],
+    "skills": [
+      "Business Analysis",
+      "Agile",
+      "Process Improvement"
+    ],
+    "active": true
+  },
+  {
+    "id": "senior-business-systems-analyst",
+    "title": "Senior Business Systems Analyst",
+    "location": "New York, NY / Hybrid",
+    "type": "Contract",
+    "department": "Business Technology",
+    "posted": "2026-08-16",
+    "summary": "Translate business needs into practical technology requirements and improvements for large-scale system implementations.",
+    "description": "The analyst will bridge business and technology teams, documenting requirements and supporting delivery for large-scale system implementations.",
+    "responsibilities": [
+      "Facilitate discovery sessions and document requirements",
+      "Map current and future-state processes",
+      "Support testing, training, and rollout activities",
+      "Maintain traceability and stakeholder communication"
+    ],
+    "requirements": [
+      "3+ years of business analysis experience",
+      "Strong requirements and process modeling skills",
+      "Experience in agile delivery environments",
+      "Excellent communication and facilitation"
+    ],
+    "skills": [
+      "Process Improvement",
+      "SQL",
+      "Requirements",
+      "UAT",
+      "Confluence"
+    ],
+    "active": true
+  },
+  {
+    "id": "business-analyst-erp",
+    "title": "Business Analyst — ERP Implementation",
+    "location": "Chicago, IL / On-site",
+    "type": "Contract-to-Hire",
+    "department": "Business Technology",
+    "posted": "2026-08-09",
+    "summary": "Translate business needs into practical technology requirements and improvements for an ERP implementation program.",
+    "description": "The analyst will bridge business and technology teams, documenting requirements and supporting delivery for an ERP implementation program.",
+    "responsibilities": [
+      "Model workflows and document system designs",
+      "Partner with vendors and implementation teams",
+      "Define acceptance criteria and support UAT",
+      "Identify process improvements and automation opportunities"
+    ],
+    "requirements": [
+      "Experience with enterprise system implementations",
+      "Knowledge of test management and UAT practices",
+      "Ability to manage multiple stakeholders",
+      "Detail-oriented with strong documentation skills"
+    ],
+    "skills": [
+      "UAT",
+      "Confluence",
+      "Jira",
+      "Data Modeling",
+      "ERP"
+    ],
+    "active": true
+  },
+  {
+    "id": "systems-analyst-finance",
+    "title": "Systems Analyst — Finance Technology",
+    "location": "Jersey City, NJ / Hybrid",
+    "type": "Direct Hire",
+    "department": "Business Technology",
+    "posted": "2026-08-02",
+    "summary": "Translate business needs into practical technology requirements and improvements for finance and regulatory technology.",
+    "description": "The analyst will bridge business and technology teams, documenting requirements and supporting delivery for finance and regulatory technology.",
+    "responsibilities": [
+      "Coordinate change management and communication",
+      "Track issues, decisions, and requirements status",
+      "Facilitate discovery sessions and document requirements",
+      "Map current and future-state processes"
+    ],
+    "requirements": [
+      "3+ years of business analysis experience",
+      "Strong requirements and process modeling skills",
+      "Experience in agile delivery environments",
+      "Excellent communication and facilitation"
+    ],
+    "skills": [
+      "Data Modeling",
+      "ERP",
+      "Business Analysis",
+      "Agile",
+      "Process Improvement"
+    ],
+    "active": true
+  },
+  {
+    "id": "business-analyst-requirements",
+    "title": "Business Analyst — Requirements & Testing",
+    "location": "Remote — United States",
+    "type": "Contract",
+    "department": "Business Technology",
+    "posted": "2026-07-27",
+    "summary": "Translate business needs into practical technology requirements and improvements for requirements, testing, and rollout.",
+    "description": "The analyst will bridge business and technology teams, documenting requirements and supporting delivery for requirements, testing, and rollout.",
+    "responsibilities": [
+      "Maintain traceability and stakeholder communication",
+      "Analyze data to define reporting and integration needs",
+      "Model workflows and document system designs",
+      "Partner with vendors and implementation teams"
+    ],
+    "requirements": [
+      "Experience with enterprise system implementations",
+      "Knowledge of test management and UAT practices",
+      "Ability to manage multiple stakeholders",
+      "Detail-oriented with strong documentation skills"
+    ],
+    "skills": [
+      "Agile",
+      "Process Improvement",
+      "SQL",
+      "Requirements",
+      "UAT"
+    ],
+    "active": true
+  },
+  {
+    "id": "it-business-analyst",
+    "title": "IT Business Analyst",
+    "location": "Pittsburgh, PA / Hybrid",
+    "type": "Contract",
+    "department": "Business Technology",
+    "posted": "2026-07-20",
+    "summary": "Translate business needs into practical technology requirements and improvements for operational IT systems and integrations.",
+    "description": "The analyst will bridge business and technology teams, documenting requirements and supporting delivery for operational IT systems and integrations.",
+    "responsibilities": [
+      "Identify process improvements and automation opportunities",
+      "Prepare training materials and user documentation",
+      "Coordinate change management and communication",
+      "Track issues, decisions, and requirements status"
+    ],
+    "requirements": [
+      "3+ years of business analysis experience",
+      "Strong requirements and process modeling skills",
+      "Experience in agile delivery environments",
+      "Excellent communication and facilitation"
+    ],
+    "skills": [
+      "Requirements",
+      "UAT",
+      "Confluence",
+      "Jira",
+      "Data Modeling"
+    ],
+    "active": true
+  },
+  {
+    "id": "business-systems-analyst-salesforce",
+    "title": "Business Systems Analyst — Salesforce",
+    "location": "Dallas, TX / Remote",
+    "type": "Direct Hire",
+    "department": "Business Technology",
+    "posted": "2026-07-13",
+    "summary": "Translate business needs into practical technology requirements and improvements for Salesforce configuration and adoption.",
+    "description": "The analyst will bridge business and technology teams, documenting requirements and supporting delivery for Salesforce configuration and adoption.",
+    "responsibilities": [
+      "Map current and future-state processes",
+      "Support testing, training, and rollout activities",
+      "Maintain traceability and stakeholder communication",
+      "Analyze data to define reporting and integration needs"
+    ],
+    "requirements": [
+      "Experience with enterprise system implementations",
+      "Knowledge of test management and UAT practices",
+      "Ability to manage multiple stakeholders",
+      "Detail-oriented with strong documentation skills"
+    ],
+    "skills": [
+      "Jira",
+      "Data Modeling",
+      "ERP",
+      "Business Analysis",
+      "Agile"
+    ],
+    "active": true
+  },
+  {
+    "id": "data-business-analyst",
+    "title": "Data Business Analyst",
+    "location": "Tampa, FL / Hybrid",
+    "type": "Contract-to-Hire",
+    "department": "Business Technology",
+    "posted": "2026-07-07",
+    "summary": "Translate business needs into practical technology requirements and improvements for data reporting and analytics requirements.",
+    "description": "The analyst will bridge business and technology teams, documenting requirements and supporting delivery for data reporting and analytics requirements.",
+    "responsibilities": [
+      "Partner with vendors and implementation teams",
+      "Define acceptance criteria and support UAT",
+      "Identify process improvements and automation opportunities",
+      "Prepare training materials and user documentation"
+    ],
+    "requirements": [
+      "3+ years of business analysis experience",
+      "Strong requirements and process modeling skills",
+      "Experience in agile delivery environments",
+      "Excellent communication and facilitation"
+    ],
+    "skills": [
+      "Business Analysis",
+      "Agile",
+      "Process Improvement",
+      "SQL",
+      "Requirements"
+    ],
+    "active": true
+  },
+  {
+    "id": "process-improvement-analyst",
+    "title": "Process Improvement Analyst",
+    "location": "Philadelphia, PA / On-site",
+    "type": "Contract",
+    "department": "Business Technology",
+    "posted": "2026-06-30",
+    "summary": "Translate business needs into practical technology requirements and improvements for process redesign and automation.",
+    "description": "The analyst will bridge business and technology teams, documenting requirements and supporting delivery for process redesign and automation.",
+    "responsibilities": [
+      "Track issues, decisions, and requirements status",
+      "Facilitate discovery sessions and document requirements",
+      "Map current and future-state processes",
+      "Support testing, training, and rollout activities"
+    ],
+    "requirements": [
+      "Experience with enterprise system implementations",
+      "Knowledge of test management and UAT practices",
+      "Ability to manage multiple stakeholders",
+      "Detail-oriented with strong documentation skills"
+    ],
+    "skills": [
+      "SQL",
+      "Requirements",
+      "UAT",
+      "Confluence",
+      "Jira"
+    ],
+    "active": true
+  },
+  {
+    "id": "business-analyst-cybersecurity",
+    "title": "Business Analyst — Cybersecurity Programs",
+    "location": "Washington, DC / Hybrid",
+    "type": "Direct Hire",
+    "department": "Business Technology",
+    "posted": "2026-06-23",
+    "summary": "Translate business needs into practical technology requirements and improvements for security program requirements.",
+    "description": "The analyst will bridge business and technology teams, documenting requirements and supporting delivery for security program requirements.",
+    "responsibilities": [
+      "Analyze data to define reporting and integration needs",
+      "Model workflows and document system designs",
+      "Partner with vendors and implementation teams",
+      "Define acceptance criteria and support UAT"
+    ],
+    "requirements": [
+      "3+ years of business analysis experience",
+      "Strong requirements and process modeling skills",
+      "Experience in agile delivery environments",
+      "Excellent communication and facilitation"
+    ],
+    "skills": [
+      "Confluence",
+      "Jira",
+      "Data Modeling",
+      "ERP",
+      "Business Analysis"
+    ],
+    "active": true
+  },
+  {
+    "id": "ai-engineer",
+    "title": "AI Engineer",
+    "location": "New York, NY / Hybrid",
+    "type": "Contract",
+    "department": "Data & AI",
+    "posted": "2026-08-23",
+    "summary": "Design and ship AI features and intelligent automation that deliver measurable business value.",
+    "description": "We are seeking an AI Engineer to build and operate AI features and intelligent automation. You will partner with data, product, and platform teams to take models from prototype to production.",
+    "responsibilities": [
+      "Develop and evaluate ML and AI models",
+      "Build feature pipelines and training datasets",
+      "Deploy models to production with monitoring",
+      "Partner with product and data teams on use cases"
+    ],
+    "requirements": [
+      "4+ years building ML or AI solutions",
+      "Strong Python and ML framework experience",
+      "Experience with cloud ML services",
+      "Understanding of evaluation and experiment management"
+    ],
+    "skills": [
+      "TensorFlow",
+      "LLM",
+      "RAG",
+      "MLOps",
+      "AWS SageMaker"
+    ],
+    "active": true
+  },
+  {
+    "id": "machine-learning-engineer",
+    "title": "Machine Learning Engineer",
+    "location": "San Francisco, CA / Hybrid",
+    "type": "Contract",
+    "department": "Data & AI",
+    "posted": "2026-08-20",
+    "summary": "Design and ship ML model development and deployment that deliver measurable business value.",
+    "description": "We are seeking an Machine Learning Engineer to build and operate ML model development and deployment. You will partner with data, product, and platform teams to take models from prototype to production.",
+    "responsibilities": [
+      "Optimize model latency, cost, and quality",
+      "Implement MLOps practices and CI/CD for models",
+      "Design RAG and agent-based AI solutions",
+      "Track experiments and maintain model registries"
+    ],
+    "requirements": [
+      "Experience with feature stores and MLOps tooling",
+      "Solid grasp of statistics and model validation",
+      "Ability to communicate technical results to stakeholders",
+      "Experience with version control and CI/CD"
+    ],
+    "skills": [
+      "MLOps",
+      "AWS SageMaker",
+      "Azure OpenAI",
+      "Scikit-learn",
+      "Docker"
+    ],
+    "active": true
+  },
+  {
+    "id": "ai-engineer-llm",
+    "title": "AI Engineer — LLM & Generative AI",
+    "location": "Remote — United States",
+    "type": "Direct Hire",
+    "department": "Data & AI",
+    "posted": "2026-08-15",
+    "summary": "Design and ship LLM applications and generative AI that deliver measurable business value.",
+    "description": "We are seeking an AI Engineer — LLM & Generative AI to build and operate LLM applications and generative AI. You will partner with data, product, and platform teams to take models from prototype to production.",
+    "responsibilities": [
+      "Document model behavior and limitations",
+      "Mentor engineers and support adoption of AI tooling",
+      "Develop and evaluate ML and AI models",
+      "Build feature pipelines and training datasets"
+    ],
+    "requirements": [
+      "4+ years building ML or AI solutions",
+      "Strong Python and ML framework experience",
+      "Experience with cloud ML services",
+      "Understanding of evaluation and experiment management"
+    ],
+    "skills": [
+      "Scikit-learn",
+      "Docker",
+      "Python",
+      "PyTorch",
+      "TensorFlow"
+    ],
+    "active": true
+  },
+  {
+    "id": "mlops-engineer",
+    "title": "MLOps Engineer",
+    "location": "Seattle, WA / Remote",
+    "type": "Contract",
+    "department": "Data & AI",
+    "posted": "2026-08-08",
+    "summary": "Design and ship ML pipelines and model operations that deliver measurable business value.",
+    "description": "We are seeking an MLOps Engineer to build and operate ML pipelines and model operations. You will partner with data, product, and platform teams to take models from prototype to production.",
+    "responsibilities": [
+      "Partner with product and data teams on use cases",
+      "Fine-tune and evaluate large language models",
+      "Optimize model latency, cost, and quality",
+      "Implement MLOps practices and CI/CD for models"
+    ],
+    "requirements": [
+      "Experience with feature stores and MLOps tooling",
+      "Solid grasp of statistics and model validation",
+      "Ability to communicate technical results to stakeholders",
+      "Experience with version control and CI/CD"
+    ],
+    "skills": [
+      "PyTorch",
+      "TensorFlow",
+      "LLM",
+      "RAG",
+      "MLOps"
+    ],
+    "active": true
+  },
+  {
+    "id": "computer-vision-engineer",
+    "title": "Computer Vision Engineer",
+    "location": "Austin, TX / Hybrid",
+    "type": "Contract-to-Hire",
+    "department": "Data & AI",
+    "posted": "2026-08-01",
+    "summary": "Design and ship computer vision models and products that deliver measurable business value.",
+    "description": "We are seeking an Computer Vision Engineer to build and operate computer vision models and products. You will partner with data, product, and platform teams to take models from prototype to production.",
+    "responsibilities": [
+      "Track experiments and maintain model registries",
+      "Establish guardrails, safety, and evaluation frameworks",
+      "Document model behavior and limitations",
+      "Mentor engineers and support adoption of AI tooling"
+    ],
+    "requirements": [
+      "4+ years building ML or AI solutions",
+      "Strong Python and ML framework experience",
+      "Experience with cloud ML services",
+      "Understanding of evaluation and experiment management"
+    ],
+    "skills": [
+      "RAG",
+      "MLOps",
+      "AWS SageMaker",
+      "Azure OpenAI",
+      "Scikit-learn"
+    ],
+    "active": true
+  },
+  {
+    "id": "nlp-engineer",
+    "title": "NLP Engineer",
+    "location": "Boston, MA / Hybrid",
+    "type": "Contract",
+    "department": "Data & AI",
+    "posted": "2026-07-28",
+    "summary": "Design and ship natural language processing solutions that deliver measurable business value.",
+    "description": "We are seeking an NLP Engineer to build and operate natural language processing solutions. You will partner with data, product, and platform teams to take models from prototype to production.",
+    "responsibilities": [
+      "Build feature pipelines and training datasets",
+      "Deploy models to production with monitoring",
+      "Partner with product and data teams on use cases",
+      "Fine-tune and evaluate large language models"
+    ],
+    "requirements": [
+      "Experience with feature stores and MLOps tooling",
+      "Solid grasp of statistics and model validation",
+      "Ability to communicate technical results to stakeholders",
+      "Experience with version control and CI/CD"
+    ],
+    "skills": [
+      "Azure OpenAI",
+      "Scikit-learn",
+      "Docker",
+      "Python",
+      "PyTorch"
+    ],
+    "active": true
+  },
+  {
+    "id": "ai-solutions-engineer",
+    "title": "AI Solutions Engineer",
+    "location": "Chicago, IL / Remote",
+    "type": "Direct Hire",
+    "department": "Data & AI",
+    "posted": "2026-07-22",
+    "summary": "Design and ship client AI solutions and delivery that deliver measurable business value.",
+    "description": "We are seeking an AI Solutions Engineer to build and operate client AI solutions and delivery. You will partner with data, product, and platform teams to take models from prototype to production.",
+    "responsibilities": [
+      "Implement MLOps practices and CI/CD for models",
+      "Design RAG and agent-based AI solutions",
+      "Track experiments and maintain model registries",
+      "Establish guardrails, safety, and evaluation frameworks"
+    ],
+    "requirements": [
+      "4+ years building ML or AI solutions",
+      "Strong Python and ML framework experience",
+      "Experience with cloud ML services",
+      "Understanding of evaluation and experiment management"
+    ],
+    "skills": [
+      "Python",
+      "PyTorch",
+      "TensorFlow",
+      "LLM",
+      "RAG"
+    ],
+    "active": true
+  },
+  {
+    "id": "ml-engineer-python-pytorch",
+    "title": "Machine Learning Engineer — Python & PyTorch",
+    "location": "Denver, CO / Hybrid",
+    "type": "Contract",
+    "department": "Data & AI",
+    "posted": "2026-07-15",
+    "summary": "Design and ship PyTorch-based ML services that deliver measurable business value.",
+    "description": "We are seeking an Machine Learning Engineer — Python & PyTorch to build and operate PyTorch-based ML services. You will partner with data, product, and platform teams to take models from prototype to production.",
+    "responsibilities": [
+      "Mentor engineers and support adoption of AI tooling",
+      "Develop and evaluate ML and AI models",
+      "Build feature pipelines and training datasets",
+      "Deploy models to production with monitoring"
+    ],
+    "requirements": [
+      "Experience with feature stores and MLOps tooling",
+      "Solid grasp of statistics and model validation",
+      "Ability to communicate technical results to stakeholders",
+      "Experience with version control and CI/CD"
+    ],
+    "skills": [
+      "LLM",
+      "RAG",
+      "MLOps",
+      "AWS SageMaker",
+      "Azure OpenAI"
+    ],
+    "active": true
+  },
+  {
+    "id": "ai-platform-engineer",
+    "title": "AI Platform Engineer",
+    "location": "Jersey City, NJ / On-site",
+    "type": "Contract-to-Hire",
+    "department": "Data & AI",
+    "posted": "2026-07-09",
+    "summary": "Design and ship shared AI platforms and infrastructure that deliver measurable business value.",
+    "description": "We are seeking an AI Platform Engineer to build and operate shared AI platforms and infrastructure. You will partner with data, product, and platform teams to take models from prototype to production.",
+    "responsibilities": [
+      "Fine-tune and evaluate large language models",
+      "Optimize model latency, cost, and quality",
+      "Implement MLOps practices and CI/CD for models",
+      "Design RAG and agent-based AI solutions"
+    ],
+    "requirements": [
+      "4+ years building ML or AI solutions",
+      "Strong Python and ML framework experience",
+      "Experience with cloud ML services",
+      "Understanding of evaluation and experiment management"
+    ],
+    "skills": [
+      "AWS SageMaker",
+      "Azure OpenAI",
+      "Scikit-learn",
+      "Docker",
+      "Python"
+    ],
+    "active": true
+  },
+  {
+    "id": "data-scientist-applied-ml",
+    "title": "Data Scientist — Applied ML",
+    "location": "Dallas, TX / Remote",
+    "type": "Direct Hire",
+    "department": "Data & AI",
+    "posted": "2026-07-02",
+    "summary": "Design and ship applied machine learning models that deliver measurable business value.",
+    "description": "We are seeking an Data Scientist — Applied ML to build and operate applied machine learning models. You will partner with data, product, and platform teams to take models from prototype to production.",
+    "responsibilities": [
+      "Establish guardrails, safety, and evaluation frameworks",
+      "Document model behavior and limitations",
+      "Mentor engineers and support adoption of AI tooling",
+      "Develop and evaluate ML and AI models"
+    ],
+    "requirements": [
+      "Experience with feature stores and MLOps tooling",
+      "Solid grasp of statistics and model validation",
+      "Ability to communicate technical results to stakeholders",
+      "Experience with version control and CI/CD"
+    ],
+    "skills": [
+      "Docker",
+      "Python",
+      "PyTorch",
+      "TensorFlow",
+      "LLM"
+    ],
+    "active": true
+  }
+]

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" role="img" aria-labelledby="t d">
+<title id="t">Animated technology services ecosystem</title><desc id="d">A central SourceTX hub connected to cloud, data, security, applications, operations, and talent.</desc>
+<style>
+.bg{fill:#07192d}.ring{fill:none;stroke:#1d4764;stroke-width:2;stroke-dasharray:7 10;animation:spin 25s linear infinite;transform-origin:380px 280px}.ring2{animation-direction:reverse;animation-duration:34s}.line{stroke:#2a6687;stroke-width:2;stroke-dasharray:4 7;animation:dash 7s linear infinite}.hub{fill:#078fb9}.node{fill:#102f49;stroke:#38b5db;stroke-width:2}.node2{stroke:#78b93f}.pulse{animation:pulse 2.8s ease-in-out infinite;transform-origin:center}.float{animation:float 4.2s ease-in-out infinite}.delay1{animation-delay:.5s}.delay2{animation-delay:1s}.delay3{animation-delay:1.5s}.label{fill:white;font:700 18px Arial,sans-serif;text-anchor:middle}.small{fill:#c9e5ef;font:600 14px Arial,sans-serif;text-anchor:middle}.dot{fill:#78b93f;animation:blink 1.7s ease-in-out infinite}.dot2{animation-delay:.7s}
+@keyframes spin{to{transform:rotate(360deg)}}@keyframes dash{to{stroke-dashoffset:-80}}@keyframes pulse{50%{transform:scale(1.07);opacity:.82}}@keyframes float{50%{transform:translateY(-9px)}}@keyframes blink{50%{opacity:.25}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect class="bg" width="760" height="560" rx="32"/><circle class="ring" cx="380" cy="280" r="188"/><circle class="ring ring2" cx="380" cy="280" r="237"/>
+<g class="line"><path d="M380 280L380 92M380 280L598 153M380 280L610 385M380 280L380 477M380 280L150 385M380 280L162 153"/></g>
+<g class="pulse"><circle class="hub" cx="380" cy="280" r="82"/><circle cx="380" cy="280" r="67" fill="#086e94"/><text class="label" x="380" y="274">SourceTX</text><text class="small" x="380" y="300">Technology + Talent</text></g>
+<g class="float"><rect class="node" x="294" y="45" width="172" height="82" rx="20"/><text class="label" x="380" y="82">Cloud</text><text class="small" x="380" y="106">Platform &amp; DevOps</text></g>
+<g class="float delay1"><rect class="node node2" x="532" y="108" width="170" height="88" rx="20"/><text class="label" x="617" y="147">Data &amp; AI</text><text class="small" x="617" y="171">Analytics &amp; automation</text></g>
+<g class="float delay2"><rect class="node" x="535" y="342" width="174" height="88" rx="20"/><text class="label" x="622" y="380">Security</text><text class="small" x="622" y="405">Risk &amp; resilience</text></g>
+<g class="float delay3"><rect class="node node2" x="290" y="433" width="180" height="86" rx="20"/><text class="label" x="380" y="471">Managed</text><text class="small" x="380" y="496">Operate &amp; optimize</text></g>
+<g class="float delay1"><rect class="node" x="50" y="342" width="175" height="88" rx="20"/><text class="label" x="137" y="380">Talent</text><text class="small" x="137" y="405">Staffing &amp; RPO</text></g>
+<g class="float delay2"><rect class="node node2" x="58" y="108" width="170" height="88" rx="20"/><text class="label" x="143" y="147">Apps</text><text class="small" x="143" y="171">Build &amp; modernize</text></g>
+<circle class="dot" cx="380" cy="92" r="6"/><circle class="dot dot2" cx="598" cy="153" r="6"/><circle class="dot" cx="610" cy="385" r="6"/><circle class="dot dot2" cx="380" cy="477" r="6"/><circle class="dot" cx="150" cy="385" r="6"/><circle class="dot dot2" cx="162" cy="153" r="6"/>
+</svg>
